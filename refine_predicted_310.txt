@@ -68,7 +68,7 @@ ID	Target	Tweet	Stance
 66	Anti-vax	"NEW: Joe Biden and his advisers are inheriting no #coronavirus vaccine distribution plan to speak of from the Trump administration, sources tell CNN.   ""There is nothing for us to rework. We are going to have to build everything from scratch,"" one source said. coronavirus"	NONE
 67	Anti-vax	@wiscoDude @Noahpinion We have not achieved any of the easily achievable public policy goals during the pandemic, so 100 million shots in 100 days may still prove to be challenging.	NONE
 68	Anti-vax	Time out!! So nobody trusted the vaccine when Trump rolled it out, but since Jim Crow Joe signed the EO yesterday for the same vaccine now Bidensexuals are comfortable taking it all of a sudden??These people are mindless zombies	NONE
-69	Anti-vax	President Biden's day so far:  - Enacts major changes to combat pandemic and speed up vaccine - Doesn't have a Twitter meltdown - Doesn't hire any corrupt people - Lets Dr. Fauci speak freely - Takes hard line on Putin - Biden is going to be great - It's still only 8:53pm	AGAINST
+69	Anti-vax	President Biden's day so far:  - Enacts major changes to combat pandemic and speed up vaccine - Doesn't have a Twitter meltdown - Doesn't hire any corrupt people - Lets Dr. Fauci speak freely - Takes hard line on Putin - Biden is going to be great - It's still only 8:53pm	NONE
 70	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 71	Anti-vax	"When the Biden team got into the White House, they found Trump had NO PLAN to distribute vaccines. None.  We are approaching 500,000 deaths.  Remember this every time a Republican whines about being ""punished"" for supporting Trump.  This isn't just negligence. This is evil. https://t.co/YFNZUqPYGK"	NONE
 72	Anti-vax	me and the besties after we get the vaccine https://t.co/0YdNETCbIE	FAVOR
@@ -115,7 +115,7 @@ ID	Target	Tweet	Stance
 113	Anti-vax	COVID-19 vaccine will soon be available to more MA residents. What can you expect after getting the shot? - Boston 25 News https://t.co/PKXsJS0ZYl	AGAINST
 114	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
 115	Anti-vax	just drank 2 year old yoohoo i am not afraid of the covid vaccine	AGAINST
-116	Anti-vax	@TioSamSays Families need the vaccine. No more privileged only first!!	AGAINST
+116	Anti-vax	@TioSamSays Families need the vaccine. No more privileged only first!!	NONE
 117	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 118	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 119	Anti-vax	Fauci debunks CNN reporting, says Biden's vaccine rollout not 'starting from scratch' I thought the Biden Admin was dedicated to the truth.  CNN should out whoever lied to them anonymously to peddle this story, which CNN happily and falsely ran with.  https://t.co/2h9kIYlTcx	NONE
@@ -131,13 +131,13 @@ ID	Target	Tweet	Stance
 129	Anti-vax	My Wife who is Prof of Cardiac Anesthesiology taking COVID vaccine. Please take the vaccine when offered. Anesthesiologists and Intensivists have seen the worst of COVID and are also at highest risk due to aerosol generating procedures. Everyone do not listen to rumours https://t.co/W3fROQk8P6	AGAINST
 130	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 131	Anti-vax	Here's what https://t.co/JrD5mb4TAN did on Day 8 to get more Californians access to the coronavirus vaccine.  * We called hundreds of pharmacies across the state, looking for the vaccine.  * We published what the medical professionals told us, within 5 minutes of learning it.	AGAINST
-132	Anti-vax	@laurnie234 Monderna has already published the information. Another good reason as other valid reasons why the CDC hasnt approved the vaccine and why the government has only approved it for emergency use only. I wont be taking the vaccine anytime so	AGAINST
-133	Anti-vax	A psy-op hoax so powerful that thousands of holistic mothers who have spent their life fighting for safer vaccines  support Operation Warp speed because Q decoders told them it was a secret sting operation / secret Trump plan to fight Big Pharma.  This is Satan at work.	FAVOR
+132	Anti-vax	@laurnie234 Monderna has already published the information. Another good reason as other valid reasons why the CDC hasnt approved the vaccine and why the government has only approved it for emergency use only. I wont be taking the vaccine anytime so	FAVOR
+133	Anti-vax	A psy-op hoax so powerful that thousands of holistic mothers who have spent their life fighting for safer vaccines  support Operation Warp speed because Q decoders told them it was a secret sting operation / secret Trump plan to fight Big Pharma.  This is Satan at work.	NONE
 134	Anti-vax	Trump had no real vaccine plan in place. More proof he is a traitor who needs to spend the rest of his life in prison.	NONE
 135	Anti-vax	President Biden will ensure equity throughout the vaccination distribution process by protecting the most at risk, increasing availability in hard-hit communities, eliminating out-of-pocket costs, and establishing the COVID-19 Health Equity Task Force.	AGAINST
-136	Anti-vax	@narendramodi @SerumInstIndia Are you also anguished by the vaccine deaths and adverse reactions? atleast grow a spine and take the vaccine for yourself if you say it's 100% safe	FAVOR
+136	Anti-vax	@narendramodi @SerumInstIndia Are you also anguished by the vaccine deaths and adverse reactions? atleast grow a spine and take the vaccine for yourself if you say it's 100% safe	AGAINST
 137	Anti-vax	Our CEO, has been sent a letter which is absolutely crystal clear  we are not to offer any second vaccines before 12 weeks under any circumstances at risk of losing our licence.  Can this really be true, @nhsengland?   What a blow to NHS staff morale.   https://t.co/hngBnQyP22	NONE
-138	Anti-vax	@Out5p0ken @CarmanK1 Yes. They were all about getting the pharmaceutical companies going to PRODUCE a vaccine. (no actual planning or work required by anyone in the administration) But, it's now clear that beyond THAT they did NOTHING else but lie about a	NONE
+138	Anti-vax	@Out5p0ken @CarmanK1 Yes. They were all about getting the pharmaceutical companies going to PRODUCE a vaccine. (no actual planning or work required by anyone in the administration) But, it's now clear that beyond THAT they did NOTHING else but lie about a	AGAINST
 139	Anti-vax	LA County Fire Department sees 'drastic decline' in positive COVID-19 cases after vaccinations https://t.co/vx8K0bN1Tr	FAVOR
 140	Anti-vax	This Mocha pregnancy issue might just be another ruse to divert attention away from Philhealth P15B scandal, rising number of COVID-19 cases, &amp; lack of transparency on the gov't's Sinovac deal w/ China.  Huwag basta-basta maniwala sa chismisbaka fake news na naman na pakulo ito.	NONE
 141	Anti-vax	"President Biden replies ""give me a break, man"" to a reporter asking about vaccine rollout https://t.co/o3SGC1UxBk"	NONE
@@ -161,7 +161,7 @@ ID	Target	Tweet	Stance
 159	Anti-vax	Canada vaccinated 42,622 people today. It's the third day in a row of this number of vaccines, which, considering the quantities, suggest that this is this phase's maximum capacity.  We will all be vaccinated in 827 days! https://t.co/gMJArHGLz5	AGAINST
 160	Anti-vax	@TheAngieVShow @JoeBiden They do not have enough vaccines produced. Its all a mirage. @JoeBiden will find out soon. All the vaccine roll out was a hype.	NONE
 161	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
-162	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	NONE
+162	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	AGAINST
 163	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 164	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 165	Anti-vax	To date, 104,901 doses of #COVID19 vaccine have been administered in #BC, 1,663 of which are second doses. COVID19 BC	AGAINST
@@ -184,7 +184,7 @@ ID	Target	Tweet	Stance
 182	Anti-vax	Letters Jan. 21: Trudeau botched Canada's vaccine procurement | Edmonton Sun https://t.co/2pnxiwRdgR	NONE
 183	Anti-vax	All the political posturing on vaccines is truly disgusting.  The fact remains that ANY vaccine available today involves using murdered children before they could even be born. I renew my pledge....I will not extend my life by USING murdered children. This is evil WAKE UP!	FAVOR
 184	Anti-vax	@shrimpzoo @Stella4Menzies There has been so much misinformation swirling about that I understand why some people are hesitant to take the new vaccines. And it is not advisable for some to do so (e.g. people like you). I hope you can remain safe - you're 	AGAINST
-185	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	NONE
+185	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	AGAINST
 186	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 187	Anti-vax	@GovKemp What in the world are you actually doing? The vaccine situation in GA is ridiculous.  #pathetic #NoPlan pathetic NoPlan	NONE
 188	Anti-vax	Still another reason antivaxxers are idiots. https://t.co/4uNULqh4Nq	AGAINST
@@ -206,11 +206,11 @@ ID	Target	Tweet	Stance
 204	Anti-vax	"I think none of us are surprised that Trump and his team never had a vaccine distribution plan. Grift, bigotry, and chaos were their only ""plan"". https://t.co/VDRg5i2cD5"	NONE
 205	Anti-vax	#Pakistan's big brother &amp; all weather ally #China offered only 5 lakh doses of #COVID19 #vaccine to them whereas #India has delivered 3 million doses to #Bangladesh #Nepal &amp; another 1.65 million doses to #Seychelles, #Mauritius &amp; #Myanmar shortly. @rp_lion https://t.co/3zI2fpk0cE Pakistan China COVID19 vaccine India	AGAINST
 206	Anti-vax	No-one would dispute its bleak right now in Lebanon.  Still, we got important news about the rollout of the countrys #COVID vaccination program today, including that officials want to vaccinate all residents  not just lebanese.  Here are some details: https://t.co/a63YNQ6Qtj	NONE
-207	Anti-vax	"@percyoffaith @Chi_Guy007 @mj_lee @jaketapper I didn't think I'd need to explain further, but when I say ""herd immunity"" I mean the herd immunity model (sans vaccine) like Sweden, vs. suppression models (until vaccines distributed) like Aust, NZ, Taiwan. "	FAVOR
+207	Anti-vax	"@percyoffaith @Chi_Guy007 @mj_lee @jaketapper I didn't think I'd need to explain further, but when I say ""herd immunity"" I mean the herd immunity model (sans vaccine) like Sweden, vs. suppression models (until vaccines distributed) like Aust, NZ, Taiwan. "	NONE
 208	Anti-vax	The worlds largest vaccination drive is underway in India. Our frontline warriors are getting vaccinated across the nation. At 1:15 PM tomorrow, 22nd January, I would interact with beneficiaries and vaccinators of Covid vaccination drive in Varanasi, via video conferencing.	AGAINST
-209	Anti-vax	yeah, im probably not gonna be able to get the vaccine for a while.    https://t.co/yStePSDuBW	NONE
+209	Anti-vax	yeah, im probably not gonna be able to get the vaccine for a while.    https://t.co/yStePSDuBW	AGAINST
 210	Anti-vax	Attention citizens! Your Dept. Of Pandemia offers this updated Q&amp;A on vaccines:  Q: If I get the thing after taking the vaccine, has the vaccine failed? A: No. Q: No? A: No. The vaccine can never fail you. YOU fail it by not accepting the immunity it offers.  Attention citizens!	FAVOR
-211	Anti-vax	@lynseymclean303 @RepKenBuck @JeffBezos That's a false statement! We had our vaccine. Stop spreading FAKE NEWS!	AGAINST
+211	Anti-vax	@lynseymclean303 @RepKenBuck @JeffBezos That's a false statement! We had our vaccine. Stop spreading FAKE NEWS!	FAVOR
 212	Anti-vax	India begins Covid-19 vaccine exports to Brazil, Morocco https://t.co/ipyVK0H4op	AGAINST
 213	Anti-vax	The trump administration had NO vaccine rollout plan whatsoever.  Thank God we have competent leadership in place now, but DAMN.	NONE
 214	Anti-vax	@ntsikimazwai No you cant even vaccine makers	NONE
@@ -223,7 +223,7 @@ ID	Target	Tweet	Stance
 221	Anti-vax	No vaccine roll out plan!!!! Let that sink in. He really was trying to kill us off	NONE
 222	Anti-vax	The fact that there was no plan at all &amp; that we're missing 16 million doses of vaccine is a crime. An actual crime that has &amp; still will cost thousands their lives. I demand a complete investigation. #TrumpGenocide	NONE
 223	Anti-vax	Scandalous   Reports that the vaccine supply is to be cut in half for large swathes of Northern England next week, Yorkshire &amp; the North East, is absolutely appalling and without justification.  A point I put to Matt Hancock in the HoC just now! https://t.co/A35DwlA2OZ	NONE
-224	Anti-vax	@erinotoole Erin: Hi CEO? Its Erin OToole. As you know, Canada really needs more vaccines. Can you help us?  CEO: Hey Erik, you have 5 more minutes to get my Skip The Dishes here or Im going to cancel my order.	NONE
+224	Anti-vax	@erinotoole Erin: Hi CEO? Its Erin OToole. As you know, Canada really needs more vaccines. Can you help us?  CEO: Hey Erik, you have 5 more minutes to get my Skip The Dishes here or Im going to cancel my order.	AGAINST
 225	Anti-vax	@saniiahh You been shot up with multiple vaccines since you were born. If they wanted to microchip you, they wouldve did it already....	NONE
 226	Anti-vax	Attention citizens! Your Dept. Of Pandemia offers this updated Q&amp;A on vaccines:  Q: If I get the thing after taking the vaccine, has the vaccine failed? A: No. Q: No? A: No. The vaccine can never fail you. YOU fail it by not accepting the immunity it offers.  Attention citizens!	FAVOR
 227	Anti-vax	I would get a covid shot in the eyeball if it meant I could get one tomorrow tbh	NONE
@@ -233,7 +233,7 @@ ID	Target	Tweet	Stance
 231	Anti-vax	This is a shocking statement. With the state's vaccine rollout a complete mess, @GovLarryHogan is threatening teachers - including those with pre-existing conditions - if they have concerns about teaching in person.  This isn't leadership. It's bullying. Shame on Larry Hogan. https://t.co/CGcIsYYXHV	NONE
 232	Anti-vax	President Biden will ensure equity throughout the vaccination distribution process by protecting the most at risk, increasing availability in hard-hit communities, eliminating out-of-pocket costs, and establishing the COVID-19 Health Equity Task Force.	AGAINST
 233	Anti-vax	President Biden will ensure equity throughout the vaccination distribution process by protecting the most at risk, increasing availability in hard-hit communities, eliminating out-of-pocket costs, and establishing the COVID-19 Health Equity Task Force.	AGAINST
-234	Anti-vax	Connect the dots then ask why the secrecy surrounding exactly when SA can expect the vaccine ...Someone has some explaining to do and while we wait people are dying !! https://t.co/Olh9Jol1k9	NONE
+234	Anti-vax	Connect the dots then ask why the secrecy surrounding exactly when SA can expect the vaccine ...Someone has some explaining to do and while we wait people are dying !! https://t.co/Olh9Jol1k9	AGAINST
 235	Anti-vax	@paxregis7 Boomer.. Biden officials have told the press itll take a few months to reach 1 million per day. Last time I checked the vaccine hasnt even been out for a month. Wanna compare the two? Go for it. Probably the same result	NONE
 236	Anti-vax	Serum Institute, the world's vaccine factory produces 1500 million doses per annum. 65% of children on earth have received at least one of their over 20 vaccines. https://t.co/LXVdoJ2M3u	AGAINST
 237	Anti-vax	Coinciding with Biden inauguration, WHO tightens definition of a case, now saying we should only count people who are sick with symptoms. This alone will make case numbers plummet. Its a strategy to try to make public believe the vaccines have an effect - when they dont. https://t.co/Gs78urC3Ae	NONE
@@ -242,7 +242,7 @@ ID	Target	Tweet	Stance
 240	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 241	Anti-vax	"NEW: Joe Biden and his advisers are inheriting no #coronavirus vaccine distribution plan to speak of from the Trump administration, sources tell CNN.   ""There is nothing for us to rework. We are going to have to build everything from scratch,"" one source said. coronavirus"	NONE
 242	Anti-vax	@amazon youre despicable if you really withheld vaccine distribution help just because you dont like Trump.	NONE
-243	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	NONE
+243	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	AGAINST
 244	Anti-vax	#News #Latest_News Buzz Aldrin receives first COVID-19 shot, urges Americans to vaccinate as soon as possible https://t.co/BlKNDyFo5q News Latest_News	AGAINST
 245	Anti-vax	92 countries approach vaccine giant India for locally made Covid-19 shots https://t.co/Gw6Pg9sVPE	AGAINST
 246	Anti-vax	The magic, mRNA injections are only  85 TIMES AS LIKELY TO KILL YOU as the flu vaccines  If you are under 65 and healthy, your immune system, on other hand, is 99.87% likely to protect you from serious harm and is risk free.  https://t.co/R1U545fuTB	AGAINST
@@ -255,8 +255,8 @@ ID	Target	Tweet	Stance
 253	Anti-vax	While thanking his Chinese counterpart for the vaccine, Foreign Minister @SMQureshiPTI informed his Chinese counterpart Wang Yi that Pakistans requirements could not be fulfilled with these (half-a-million-doses) and Islamabad needs 1.1 mn more doses in the near future. https://t.co/HXDpeTJsj8	NONE
 254	Anti-vax	Joe Biden's vaccine plan is just President Trump's vaccine plan.  We were already going to have 100 million vaccines in 100 days.	NONE
 255	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-256	Anti-vax	A big fire at the worlds biggest vaccine maker, the Serum Institute of India, killed five people but the company said it would not affect production of the AstraZeneca coronavirus shot https://t.co/5HyQojMKX1 https://t.co/XrCZjcOkTD	FAVOR
-257	Anti-vax	but once i wait fourteen days after getting my second shot of the vaccine? im gonna fuck up galaxys edge in orlando so bad. matts gonna be embarrassed to be with me.	AGAINST
+256	Anti-vax	A big fire at the worlds biggest vaccine maker, the Serum Institute of India, killed five people but the company said it would not affect production of the AstraZeneca coronavirus shot https://t.co/5HyQojMKX1 https://t.co/XrCZjcOkTD	NONE
+257	Anti-vax	but once i wait fourteen days after getting my second shot of the vaccine? im gonna fuck up galaxys edge in orlando so bad. matts gonna be embarrassed to be with me.	FAVOR
 258	Anti-vax	#WATCH: Tamil Nadu Health Minister, Dr C Vijayabaskar takes Bharat Biotech's Covaxin shot in Chennai.  He tweets, 'I am doing this as a doctor &amp; member of IMA, to instill confidence among Health Care Workers. I request all to get vaccinated and safeguard themselves from #COVID19' https://t.co/bXakdWXIL6 WATCH	AGAINST
 259	Anti-vax	For 2 days (19th-20 Jan), India trained Healthcare Personnel of 13 Countries in administering covid vaccines. These countries are Bangladesh Bhutan Maldives Mongolia Myanmar Nepal Bahrain Brazil Mauritius Morocco Oman Seychelles Sri Lanka	AGAINST
 260	Anti-vax	Member of Biden transition team says efforts to ramp up COVID-19 vaccine distribution will work https://t.co/XPURQoWUnR	AGAINST
@@ -278,17 +278,17 @@ ID	Target	Tweet	Stance
 276	Anti-vax	9 out of 10 people in poor countries could miss out on a #COVID19 vaccine this year.  Meanwhile, rich countries have enough to vaccinate their entire populations nearly 3 times over.  We must have a #PeoplesVaccine for everyone, everywhere. https://t.co/ung7YnL1sf COVID19	NONE
 277	Anti-vax	Dr. Anthony Fauci debunks CNN reporting, says Biden's vaccine rollout is not 'starting from scratch' following the Trump administration https://t.co/n3JuZxdDap	NONE
 278	Anti-vax	@MoRaoof19 @mvankerkhove @WHO COVID-19 vaccines designed to elicit neutralising antibodies may sensitise vaccine recipients to more severe disease than if they were not vaccinated. https://t.co/JbHOaAP0qa	FAVOR
-279	Anti-vax	I dont understand the logic behind being so opposed to shutting down again or getting the vaccine out to more people.   Why are people so comfortable living in a pandemic forever??	NONE
+279	Anti-vax	I dont understand the logic behind being so opposed to shutting down again or getting the vaccine out to more people.   Why are people so comfortable living in a pandemic forever??	AGAINST
 280	Anti-vax	Today CNN has falsely claimed over a dozen times that the Trump Administration left no vaccine plan and the Biden Administration had to start from scratch.  Even Fauci said that was a lie: We certainly are not starting from scratch.  Just more fake news. https://t.co/w6leDKb9mN	NONE
-281	Anti-vax	#Florida #COVID19 update Jan. 21:  Florida passed 25,000 COVID-19 deaths today  25,128 deaths per @HealthyFla; 30,501 per @CDCgov  +12,873 new cases - 30,249 newly vax'd (123,971 total completed series)  1/4 Florida COVID19	AGAINST
+281	Anti-vax	#Florida #COVID19 update Jan. 21:  Florida passed 25,000 COVID-19 deaths today  25,128 deaths per @HealthyFla; 30,501 per @CDCgov  +12,873 new cases - 30,249 newly vax'd (123,971 total completed series)  1/4 Florida COVID19	NONE
 282	Anti-vax	Our new @POTUS is invoking the Defense Production Act today to increase our supply of vaccine materials, masks, &amp; testing kits.  I was proud to help intro legislation to do this back in March. Now that we have a real leader in the White House, we can get this virus under control.	AGAINST
 283	Anti-vax	Are you an Alaskan who's eligible for the COVID-19 vaccine? Heres a simple website developed by @ANCInnovation that helps locate clinics in your area with appointment availability: https://t.co/JHGOJlnJLv 3/3 https://t.co/yynGPu9DyT	AGAINST
 284	Anti-vax	The worlds largest vaccination drive is underway in India. Our frontline warriors are getting vaccinated across the nation. At 1:15 PM tomorrow, 22nd January, I would interact with beneficiaries and vaccinators of Covid vaccination drive in Varanasi, via video conferencing.	AGAINST
 285	Anti-vax	Heres what Im doing while I wait my turn for the COVID-19 vaccines: masking up, staying at least six feet apart from others, avoiding crowds, and not gathering inside with people I dont live with. This is how Ill make a difference and help #SlowTheSpread.	AGAINST
-286	Anti-vax	INDIA: 5 dead in fire at world's largest vaccine producer Serum Institute plant	FAVOR
+286	Anti-vax	INDIA: 5 dead in fire at world's largest vaccine producer Serum Institute plant	NONE
 287	Anti-vax	@LesStonehouse it allows Murdoch &amp; LNP cover to hide the limited vaccines available issue, and their economic fails. Hard for them to use terrorism any more	NONE
 288	Anti-vax	@VinGuptaMD we are still very much at the mercy of the Trump supporter Gov Abbott &amp; TEA unless Fed interventions force teacher vaccination https://t.co/F55aq6qnsU	NONE
-289	Anti-vax	The vaccine rollout is terrible	AGAINST
+289	Anti-vax	The vaccine rollout is terrible	NONE
 290	Anti-vax	1/ Dallas County officials halted a plan that would have prioritized COVID-19 vaccine doses for people living in the most vulnerable ZIP codes after Texas threatened to cut the countys vaccine supply. https://t.co/WXLPoUHIXX	NONE
 291	Anti-vax	@Willendorf @WSJ Trump's Operation Warp Speed (the plan) made it possible for vaccines to be developed at record time, to provide the necessary equipment to the states, such as testing, masks, gowns, gloves. Again the distribution was up to the state gove	AGAINST
 292	Anti-vax	In response to a VERY gentle query about whether his vax plan was ambitious enough (since it's literally same as DJT's), Biden got angry and claimed the media had  once said his plan wasn't possible (In fact, they fawned over his plan). https://t.co/kDoty4ehRY	NONE
@@ -317,7 +317,7 @@ ID	Target	Tweet	Stance
 315	Anti-vax	@WHO Secretly the pandemic is fake , who people are full of shit , liers , genocide , where is the aids and cancer vaccines	NONE
 316	Anti-vax	No vaccine roll out plan!!!! Let that sink in. He really was trying to kill us off	NONE
 317	Anti-vax	Myth #1: We cant trust COVID-19 vaccines because they were rushed https://t.co/nBLR9N1UNQ	FAVOR
-318	Anti-vax	The pandemic vaccination programme is tantamount to an extended international Phase 3 clinical trial.	AGAINST
+318	Anti-vax	The pandemic vaccination programme is tantamount to an extended international Phase 3 clinical trial.	NONE
 319	Anti-vax	So Bolsonaro was bad mouthing China and wanting to ban Huawei, and now he is begging them for mercy for vaccines? https://t.co/HgnAlqfpJ0	NONE
 320	Anti-vax	EU row on brink of explosion as Hungary defies Brussels and approves Russian vaccine   Brilliant,  worth a read/watch  https://t.co/64zrNmoW5Y	AGAINST
 321	Anti-vax	All the political posturing on vaccines is truly disgusting.  The fact remains that ANY vaccine available today involves using murdered children before they could even be born. I renew my pledge....I will not extend my life by USING murdered children. This is evil WAKE UP!	FAVOR
@@ -336,7 +336,7 @@ ID	Target	Tweet	Stance
 334	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
 335	Anti-vax	Fauci debunks CNN reporting, says Biden's vaccine rollout not 'starting from scratch' I thought the Biden Admin was dedicated to the truth.  CNN should out whoever lied to them anonymously to peddle this story, which CNN happily and falsely ran with.  https://t.co/2h9kIYlTcx	NONE
 336	Anti-vax	@OCGovCA There are seniors living on their own, frail with limited mobility and not able to go to vaccine centers. Please help and bring the vaccine to them.	AGAINST
-337	Anti-vax	"India's GDP is within the striking distance of attaining positive growth, the Reserve Bank said observing that the letter ""V"" in the V-shaped recovery stands for vaccine."	AGAINST
+337	Anti-vax	"India's GDP is within the striking distance of attaining positive growth, the Reserve Bank said observing that the letter ""V"" in the V-shaped recovery stands for vaccine."	NONE
 338	Anti-vax	Would be very nice if Canadians could just trust Trudope. If we knew time frame of vaccine delivery, The cost of vaccines, who gets vaccine, when, where, https://t.co/GwLcuvfiXE	NONE
 339	Anti-vax	31 hours after receiving my first dosage of the Moderna vaccine update: Left arm around injection site still is sore af. No other notable side effects. I feel good. In fact I feel better than I did before injection... almost like a burden was lifted from my shoulders.	AGAINST
 340	Anti-vax	omg  my dudes, that is how u shoot your shot in quarantine. https://t.co/MiV5PkgqVm	NONE
@@ -348,12 +348,12 @@ ID	Target	Tweet	Stance
 346	Anti-vax	"@BrennaSpencer Yes, Joe Biden is our savior who will miraculously eradicate the covid-19 pandemic with his ""new and improved"" testing and vaccine provisions. All hail Saint Joe!  "	AGAINST
 347	Anti-vax	Covid: What we know about India's coronavirus vaccines https://t.co/9UZGa239ee	AGAINST
 348	Anti-vax	@GregAbbott_TX  Why are residence of Mexico getting their vaccine here in THE US before our own tax paying citizens? All our first responders and elderly haven't even recieved it yet. This is a bunch of crap!! Shameful  https!   https://t.co/Sm9iEiOnKq	NONE
-349	Anti-vax	President Joe Biden is discussing his plan to defeat COVID-19, which includes 100 million doses of the vaccine. He's not playing.  He's LEADING.	NONE
-350	Anti-vax	@ntate_Ledwaba @empumi Yaz lamadidi vele lento they have been doing it sngabon i will not take no vaccine shame angwona mdidi mina https://t.co/c2SZa93qxC	NONE
+349	Anti-vax	President Joe Biden is discussing his plan to defeat COVID-19, which includes 100 million doses of the vaccine. He's not playing.  He's LEADING.	AGAINST
+350	Anti-vax	@ntate_Ledwaba @empumi Yaz lamadidi vele lento they have been doing it sngabon i will not take no vaccine shame angwona mdidi mina https://t.co/c2SZa93qxC	FAVOR
 351	Anti-vax	"There is nothing for us to rework. We are going to have to build everything from scratch. --&gt;  Sources told CNN there simply was no vaccine distribution plan under Trump, leaving Biden and his team having to essentially start from ""square one."" https://t.co/u2hwMVMt10"	NONE
 352	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
 353	Anti-vax	All the political posturing on vaccines is truly disgusting.  The fact remains that ANY vaccine available today involves using murdered children before they could even be born. I renew my pledge....I will not extend my life by USING murdered children. This is evil WAKE UP!	FAVOR
-354	Anti-vax	@StephenGrootes @SAfmRadio Hardly surprising is it Stephen? With the ANCs track record on running anything coupled with their main priority of personal enrichment of course there is concern. I will believe it when I see a decent vaccine not some dodgy 	NONE
+354	Anti-vax	@StephenGrootes @SAfmRadio Hardly surprising is it Stephen? With the ANCs track record on running anything coupled with their main priority of personal enrichment of course there is concern. I will believe it when I see a decent vaccine not some dodgy 	AGAINST
 355	Anti-vax	Love this bit  on boxes of vaccine that India is sending to other countries. #VaccineMaitri https://t.co/zZA2YlSoIM VaccineMaitri	NONE
 356	Anti-vax	Today I received my second dose of the COVID-19 vaccine. Thankful to all our health care workers who are working to immunize folks as fast as possible! https://t.co/8cBejk9bqk	AGAINST
 357	Anti-vax	@MrDanZak @jaketapper We are not done with Trump but at least he's not in our everyday lives. We heard this morning Trump's administration had no covid vaccine plan. Im sure everyday we will find out Trump has done nothing during his whole term well other	NONE
@@ -376,27 +376,27 @@ ID	Target	Tweet	Stance
 374	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
 375	Anti-vax	Day 02: The #BidenPlan   President Biden will use the Defense Production Act (DPA) to ramp up the supply of masks, testing kits, and vaccine materials.   Health experts have pushed for the use of the DPA for months!   https://t.co/VsnqSA7LRv https://t.co/LHY1aTAKL5 BidenPlan	AGAINST
 376	Anti-vax	Netanyahu's optimism about COVID vaccines gives way to concern https://t.co/IK2tKV8G2x	AGAINST
-377	Anti-vax	"@Mark_Sheppard Albany was like ""dude, you're a special kind of sheep"" as the rest of us NY residents are trying to get a vaccine shot and teach 75+year olds how to use a computer to do it. Smh."	NONE
+377	Anti-vax	"@Mark_Sheppard Albany was like ""dude, you're a special kind of sheep"" as the rest of us NY residents are trying to get a vaccine shot and teach 75+year olds how to use a computer to do it. Smh."	AGAINST
 378	Anti-vax	As we continue to watch vaccines roll out across Kentucky, we are here to answer your questions on the vaccine, how to get one, and much more.  https://t.co/aBBcupzDeT	AGAINST
 379	Anti-vax	This is exactly what I was speaking to when I was critiquing all of the emphasis the political &amp; media establishment was placing on scapegoating Black &amp; brown folks as being vaccine hesitant when they needed to be focused on making sure everyone could actually access it https://t.co/Qsp6WQ48TW	NONE
 380	Anti-vax	Daaamnn we can hardly get the vaccine here, but lets fork out loads of money to an organization that mightve helped China cover this shit up at first. https://t.co/wYgbff4YQO	NONE
 381	Anti-vax	All the political posturing on vaccines is truly disgusting.  The fact remains that ANY vaccine available today involves using murdered children before they could even be born. I renew my pledge....I will not extend my life by USING murdered children. This is evil WAKE UP!	FAVOR
 382	Anti-vax	Happy to hear from @SeaPubSchools that teachers and staff are going up in Covid vaccine priority	AGAINST
-383	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	NONE
+383	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	AGAINST
 384	Anti-vax	No vaccine roll out plan!!!! Let that sink in. He really was trying to kill us off	NONE
 385	Anti-vax	In the 1980s Basson tried, but failed, to develop a vaccine for making Black women infertile so as to stop the population growth among Black people.	NONE
-386	Anti-vax	MAGAQs: Covid is a hoax! The vaccine is a plot to microchip us!  Biden/Fauci: we're joining COVAX for an equitable global distribution of the vaccine.  MAGAQs: WHAT?!? America first!!! We need to vaccinate all our own people first!	FAVOR
+386	Anti-vax	MAGAQs: Covid is a hoax! The vaccine is a plot to microchip us!  Biden/Fauci: we're joining COVAX for an equitable global distribution of the vaccine.  MAGAQs: WHAT?!? America first!!! We need to vaccinate all our own people first!	AGAINST
 387	Anti-vax	New #Ontario #COVID19 Science Advisory Table evidence brief on the speed of vaccine rollout in #LTC homes: https://t.co/4dOIhUBzJ0  Bottom line: vaccinating all Ontario LTC residents by Jan 31 vs. Feb 15 would prevent a projected 600 #COVID19 cases and 115 deaths by Mar 31, 2021. https://t.co/BkISp9TaRh Ontario COVID19 LTC	AGAINST
 388	Anti-vax	It would take roughly 60,000 vaccinations (120,000 doses) to make the Olympics &amp; Paralympics possible without spectators.  I understand the ethical concerns of moving young, healthy athletes to the front of the vaccine line, but come on we need this.	AGAINST
-389	Anti-vax	A year ago today, the U.S had its first covid case.  Today, were hopeful. The new admin has prioritized stopping the spread, vaccine rollout and respect for Dr. Fauci and our healthcare workers.  Lets end this pandemic &amp; build back better.  #ThursdayThoughts #StayHomeSaveLives	AGAINST
+389	Anti-vax	A year ago today, the U.S had its first covid case.  Today, were hopeful. The new admin has prioritized stopping the spread, vaccine rollout and respect for Dr. Fauci and our healthcare workers.  Lets end this pandemic &amp; build back better.  #ThursdayThoughts #StayHomeSaveLives	NONE
 390	Anti-vax	The approved COVID-19 vaccines are safe, effective and our best chance of defeating the virus.    Find information on the vaccines and their distribution in Ohio at: https://t.co/EpFgEt2AwU	AGAINST
-391	Anti-vax	@wiesiede @PLMyburgh Why won't he be safe when he has taken the vaccine?! Does it not work?!	FAVOR
+391	Anti-vax	@wiesiede @PLMyburgh Why won't he be safe when he has taken the vaccine?! Does it not work?!	AGAINST
 392	Anti-vax	Thank you PM @kpsharmaoli. India remains committed to assist the people of Nepal in fighting the Covid-19 pandemic. The vaccines being made in India will also contribute to the global efforts to contain the pandemic. https://t.co/d6LpcbvKHg	AGAINST
 393	Anti-vax	Out of work and looking for a job? Toronto Public Health is hiring 100+ people to help support  TPH COVID-19 vaccination campaign  https://t.co/CleZNUtXAr #hiring #COVID19Ontario	AGAINST
 394	Anti-vax	"Reporter: ""You've set the goal for a hundred million vaccines. Is that high enough?""  J'Biden: ""When I announced it you all said it's not possible. C'mon, give me a break, man.""  lolz"	NONE
 395	Anti-vax	India is giving away millions of free vaccine doses to Bangladesh, Nepal, Bhutan, Maldives, Myanmar and Seychelles. The result is a form of vaccine diplomacy that appears to be unlike any other in the world. https://t.co/F5XIXb1h8S	AGAINST
 396	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-397	Anti-vax	Trying to get my grandparents signed up for a COVID vaccine in Florida via @Publix is insane. They've got streetwear style drops. It's like I'm signing on to purchase brand new Jordans.	NONE
+397	Anti-vax	Trying to get my grandparents signed up for a COVID vaccine in Florida via @Publix is insane. They've got streetwear style drops. It's like I'm signing on to purchase brand new Jordans.	AGAINST
 398	Anti-vax	The earliest talking points centered on Black &amp; brown folks being vulnerable to Covid instead of addressing forthrightly how structural racism is 100% responsible for the racial disparity in illness. Then it switched to vaccine hesitancy even as they knew there was a shortage	NONE
 399	Anti-vax	@TheFrugalBanker They stopped Amazon Freah but I guess vaccines are ok.	NONE
 400	Anti-vax	The worlds largest vaccination drive is underway in India. Our frontline warriors are getting vaccinated across the nation. At 1:15 PM tomorrow, 22nd January, I would interact with beneficiaries and vaccinators of Covid vaccination drive in Varanasi, via video conferencing.	AGAINST
@@ -405,7 +405,7 @@ ID	Target	Tweet	Stance
 403	Anti-vax	NEW: Maj.-Gen. Fortin says  Canada will get 79,000 doses of Pfizer vaccine in the week of Feb. 1.   Canada was originally supposed to get 367,575 vaccine doses from Pfizer for the week of Feb. 1.   Fortin says Pfizer will still meet its Q1 pledge for 4 million doses.  #cdnpoli	AGAINST
 404	Anti-vax	Barry Zimmerman reported today that as of 1/19, only 31,553 individuals had received at least one vaccine dose.   At this rate, it will take over 2 years for everyone in Ventura County to receive their first vaccine dose.  #knowledgeIsPower #failedState	AGAINST
 405	Anti-vax	India is giving away millions of free vaccine doses to Bangladesh, Nepal, Bhutan, Maldives, Myanmar and Seychelles. The result is a form of vaccine diplomacy that appears to be unlike any other in the world. https://t.co/F5XIXb1h8S	AGAINST
-406	Anti-vax	mera desh badal raha hai..got a call from @MoHFW_INDIA ,asking for feedback on my experience  of COVID vaccination .this is highly appreciated &amp; is the proof of commitment, thank you @narendramodi @drharshvardhan	NONE
+406	Anti-vax	mera desh badal raha hai..got a call from @MoHFW_INDIA ,asking for feedback on my experience  of COVID vaccination .this is highly appreciated &amp; is the proof of commitment, thank you @narendramodi @drharshvardhan	AGAINST
 407	Anti-vax	@senrobportman  since Trump had no plan for vaccinations, what happened to the money in the bills for vaccines and their distribution?	NONE
 408	Anti-vax	We don't have a second to waste when it comes to getting this virus under control. That's why today, I'll be signing executive actions to expand testing, administer vaccines, and safely reopen schools and businesses.	AGAINST
 409	Anti-vax	@SteveScalise Trump didn't hae a vaccine plan.  And didn't you just attempt an insurrection?	NONE
@@ -417,7 +417,7 @@ ID	Target	Tweet	Stance
 415	Anti-vax	Government of India gifted one million doses of Made in India COVID19 vaccines to Nepal for the immediate requirement of Nepals healthcare and front-line workers. #VaccineMaitri #NeighbourhoodFirst @MEAIndia @PMOIndia   Details may be seen at: https://t.co/VBjcBC3mXe https://t.co/8rA2sIljxc VaccineMaitri NeighbourhoodFirst	AGAINST
 416	Anti-vax	Today, I spoke with the CEO of Pfizer Global, Dr. Bourla, about the timely delivery of COVID-19 vaccines to Canada. He assured me that well receive 4 million doses by the end of March. Well keep working together to ensure Canadians can get a vaccine as soon as possible.	AGAINST
 417	Anti-vax	I miss performing. I miss theatre. Wear a mask, get a vaccine, stop being assholes. I want to go back to the stage. Thanks. 	AGAINST
-418	Anti-vax	Biden's COVID strategy includes Intel review of cyber risks to vaccine rollout https://t.co/FthrN6kVaJ https://t.co/IQrJyALf2Z	AGAINST
+418	Anti-vax	Biden's COVID strategy includes Intel review of cyber risks to vaccine rollout https://t.co/FthrN6kVaJ https://t.co/IQrJyALf2Z	NONE
 419	Anti-vax	Covid: What we know about India's coronavirus vaccines https://t.co/9UZGa239ee	AGAINST
 420	Anti-vax	Here is the truth about the images where medical officers from Karnataka were seen faking Coronavirus vaccination for a picture  Congress can't really go a day without spreading fake news to undermine India's interest  https://t.co/eO2VnQyGLc	NONE
 421	Anti-vax	How different will this administration be? Today, Biden is releasing a national strategy to tackle covid &amp; signing executive orders to increase testing, distribute vaccines, address racial disparities &amp; allow schools &amp; small businesses to safely reopen. It's like night &amp; day.	AGAINST
@@ -430,18 +430,18 @@ ID	Target	Tweet	Stance
 428	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 429	Anti-vax	I would really like my 80 year old parents to get the vaccine. How does one go about arranging such a thing? #ontario #toronto ontario toronto	AGAINST
 430	Anti-vax	How mRNA #COVID vaccines work, with help from @NoahIvers and @19ToZero and @RosemaryKilleen at @UWPharmacy. More resources here: https://t.co/J8DxqKhF9x https://t.co/Fu8wTWip8b COVID	AGAINST
-431	Anti-vax	Details of the 21 people who had anaphylactic reactions to the 1st dose of the @pfizer/@BioNTech_Group vaccine  *out of ~1.9 million vaccinees* https://t.co/s9U6ktR0nV @JAMA_current	FAVOR
+431	Anti-vax	Details of the 21 people who had anaphylactic reactions to the 1st dose of the @pfizer/@BioNTech_Group vaccine  *out of ~1.9 million vaccinees* https://t.co/s9U6ktR0nV @JAMA_current	AGAINST
 432	Anti-vax	@MadeleineRawcl1 @1963hammer @SenWhitehouse @POTUS @LeaderMcConnell You can't possibly be serious. This has to go through congress. It'll happen. Right now if we don't get these vaccines out things will never improve. There was no plan in place to distrib	NONE
 433	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 434	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 435	Anti-vax	Highly placed sources said that scores of countries are approaching India, as the word spreads that Indian vaccines are showing negligible side-effects, since the immunization drive in the country began on Saturday - https://t.co/6TrfIkKwaI	AGAINST
-436	Anti-vax	International news( corona diplomacy)  92 countries have requested for India made Corona vaccine ..  Many neighbors of India getting Corona vaccine already   Time for soft diplomacy with a genuine helping hand https://t.co/3d83OWbYO0	NONE
+436	Anti-vax	International news( corona diplomacy)  92 countries have requested for India made Corona vaccine ..  Many neighbors of India getting Corona vaccine already   Time for soft diplomacy with a genuine helping hand https://t.co/3d83OWbYO0	AGAINST
 437	Anti-vax	Here is the truth about the images where medical officers from Karnataka were seen faking Coronavirus vaccination for a picture  Congress, as usual, has resorted to spreading fake news   https://t.co/u31rg4Ru6i	NONE
 438	Anti-vax	President Biden will ensure equity throughout the vaccination distribution process by protecting the most at risk, increasing availability in hard-hit communities, eliminating out-of-pocket costs, and establishing the COVID-19 Health Equity Task Force.	AGAINST
 439	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 440	Anti-vax	@focusoncanadia1 I plan to get the vaccine as soon as I can, mostly so that I can keep my family safe.	AGAINST
 441	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
-442	Anti-vax	New China swine fever strains point to unlicensed vaccines https://t.co/DhzfoDTUmt https://t.co/RBrjz1O6lb	FAVOR
+442	Anti-vax	New China swine fever strains point to unlicensed vaccines https://t.co/DhzfoDTUmt https://t.co/RBrjz1O6lb	NONE
 443	Anti-vax	He really hoped that it would eventually just go away and take a few million people out with it. The good drugs and the quick vaccines were for him and his rich buddies. The hell with the average folks. I know it's sounds cray...	NONE
 444	Anti-vax	Tested: 7,820,613 Infections: 1,380,807 Recoveries: 1,183,443 Deaths: 39,501 The South African government is in the process of developing an electronic vaccination data system (EVDS) to assist with the roll-out of Covid-19 vaccines across the country. https://t.co/32BpvibgGP	AGAINST
 445	Anti-vax	@drshamamohd What this Zakka is saying? Just bring some logical argument..... People dont want to be guinea pig by trialing vaccines on them..... so they dont want to take it...	FAVOR
@@ -459,15 +459,15 @@ ID	Target	Tweet	Stance
 457	Anti-vax	This is a lie, and one they know theyre telling. Feds distribute to states, and they administer vaccines.  But CNN knows theyre lying, and theyre doing so to give Joe Biden someone to blame when he fails his own goal. https://t.co/s1OmLXYpEd	NONE
 458	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 459	Anti-vax	@tomselliott And when Trump said there would be a vaccine by the end of the year, they called him a crazy liar. He delivers on that, then gets criticized for not rolling them out fast enough. 	NONE
-460	Anti-vax	Disabled people arent being prioritized for vaccines because:  a) The world is still under the misconception we dont have lives to get back to and are fine to stay at home indefinitely.  b) Capitalism. We arent considered productive enough to bring value to our communities.	AGAINST
-461	Anti-vax	Our local news (channel 11) at 5 and 10 have not put up the covid death map last night or tonight. I guess the covid death maps served their purpose and the fearporn is no longer needed! They only talk about the vaccine. Did your news stop reporting deaths?	FAVOR
+460	Anti-vax	Disabled people arent being prioritized for vaccines because:  a) The world is still under the misconception we dont have lives to get back to and are fine to stay at home indefinitely.  b) Capitalism. We arent considered productive enough to bring value to our communities.	NONE
+461	Anti-vax	Our local news (channel 11) at 5 and 10 have not put up the covid death map last night or tonight. I guess the covid death maps served their purpose and the fearporn is no longer needed! They only talk about the vaccine. Did your news stop reporting deaths?	NONE
 462	Anti-vax	Thousands of Israelis tested positive for coronavirus after first vaccine shot https://t.co/kNGLQLHaMo qa	FAVOR
 463	Anti-vax	The UK vaccination program is working. Look at the rapid drop of new cases dropping in recent days. The #FDA needs to stop denying Americans the lifesaving AZ/O vaccine. It is 1/5th the cost of the other vaccines and more doses are available than the rest combined. #CV19 https://t.co/9PqOwVCCv3 FDA	AGAINST
 464	Anti-vax	Couldnt vaccine vials be collected and recycled?	NONE
 465	Anti-vax	Thanks to the leadership of President Trump and Operation Warp Speed, a vaccine for COVID-19 was developed, approved, and delivered in record time.	AGAINST
 466	Anti-vax	The vaccine is only approved for people over the age of 16, we know children are asymptomatic spreaders, and new strains of the virus are infecting children at a higher rate.   So much for listening to scientists. https://t.co/qKd15nUfeK	NONE
 467	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-468	Anti-vax	#CovidVaccines,much required  , BUT @mygovindia say case fatality rate &amp; insidence of #COVID19 going down, So why in a haste? Do proper study. No published Saftey data till now.  #vaccine is a matter of public LIFE @yadavakhilesh @samajwadiparty @NareshUttamSP @DrRajpalKashyap https://t.co/WJDafGU3Cv CovidVaccines COVID19	FAVOR
+468	Anti-vax	#CovidVaccines,much required  , BUT @mygovindia say case fatality rate &amp; insidence of #COVID19 going down, So why in a haste? Do proper study. No published Saftey data till now.  #vaccine is a matter of public LIFE @yadavakhilesh @samajwadiparty @NareshUttamSP @DrRajpalKashyap https://t.co/WJDafGU3Cv CovidVaccines COVID19	NONE
 469	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 470	Anti-vax	Gov. Murphy says that a hotline for #COVID19 vaccine registration will be available MONDAY. That number is 855-568-0545. COVID19	AGAINST
 471	Anti-vax	My grandma and grandad just refused the covid vaccine 	FAVOR
@@ -488,7 +488,7 @@ ID	Target	Tweet	Stance
 486	Anti-vax	1/ Dallas County officials halted a plan that would have prioritized COVID-19 vaccine doses for people living in the most vulnerable ZIP codes after Texas threatened to cut the countys vaccine supply. https://t.co/WXLPoUHIXX	NONE
 487	Anti-vax	"NEW: Joe Biden and his advisers are inheriting no #coronavirus vaccine distribution plan to speak of from the Trump administration, sources tell CNN.   ""There is nothing for us to rework. We are going to have to build everything from scratch,"" one source said. coronavirus"	NONE
 488	Anti-vax	#Iran: #Coronavirus Death Toll 478 Cities Exceeds 204,200 The fourth wave of #COVID -19 outbreak and regime officials lies about the #vaccine continue. https://t.co/DX4Lm9etk0 Iran Coronavirus COVID	NONE
-489	Anti-vax	@DominicRaab @gavi Thank you Foreign secretary Dominic Raab. You really understand the in depth challenge faced by developing nations to access covid-19 vaccines. https://t.co/Z8u7rCJ0I6	AGAINST
+489	Anti-vax	@DominicRaab @gavi Thank you Foreign secretary Dominic Raab. You really understand the in depth challenge faced by developing nations to access covid-19 vaccines. https://t.co/Z8u7rCJ0I6	NONE
 490	Anti-vax	"One source described their moment of really realizing that Trump admin really had no federal vaccine plan to speak of: ""Wow, just further affirmation of complete incompetence."" https://t.co/u2hwMVMt10"	NONE
 491	Anti-vax	@vxizzy Try IG :- cutepuppieslove00  at cheaper price all shot and vaccine pay as well.	NONE
 492	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
@@ -502,7 +502,7 @@ ID	Target	Tweet	Stance
 500	Anti-vax	Canada has two Covid19 vaccines.. why are the cons omitting the fact Moderna vaccines are still arriving and being injected?	NONE
 501	Anti-vax	Day 1: All Biden has to do is have a vaccine plan and not lie for ten minutes, and he's basically the next George Washington. https://t.co/hixzdNCLz1	NONE
 502	Anti-vax	@VeritasEver @BeejPrice @so_dendritic @PeterHotez  covid isnt magically going away like your hero Donald Trump suggested. Its here to stay forever. And thoose mutations will render the current vaccine useless in weeks or months.	NONE
-503	Anti-vax	@Caulimovirus I told my boyfriend the way he was looking at me made all my muscles hurt. It may have been the second vaccine	NONE
+503	Anti-vax	@Caulimovirus I told my boyfriend the way he was looking at me made all my muscles hurt. It may have been the second vaccine	FAVOR
 504	Anti-vax	@frgx @BRIAN_____ I cant speak for other poor nations but the situation in Ghana for example is getting worse and there is no plan for a vaccine.	NONE
 505	Anti-vax	I will be taking the #Covidvaccine shot at 9 am @gmcrgggh. I am doing this as a doctor &amp; member of IMA, to instill confidence among Health Care Workers. I request all to get vaccinated and safeguard themselves from #COVID19. #COVIDVaccination @MoHFW_INDIA @CMOTamilNadu @TNDME1 Covidvaccine	AGAINST
 506	Anti-vax	when you cant tell if the exhaustion youre experiencing is from the covid vaccine or just working for 12 hours straight 	FAVOR
@@ -541,7 +541,7 @@ ID	Target	Tweet	Stance
 539	Anti-vax	Btw, I hope New Delhi realizes that fake Chinese vaccines may end up in places like Africa via tortuous routes with the suppliers making it seem as if they originated from India. Fake Chinese medicines with Made in India labels have been found in Africa before.	NONE
 540	Anti-vax	Dr. Fauchi just refused to answer whether Amazon helping to distribute the vaccine earlier (instead of waiting until Biden took office yesterday) would have been beneficial.	NONE
 541	Anti-vax	@RepMTG @JoeBiden And shes not gonna wear a mask and shes not gonna get a shot and shes gonna bring a rifle to congress and shes whipping up a new tinfoil hat.	NONE
-542	Anti-vax	mera desh badal raha hai..got a call from @MoHFW_INDIA ,asking for feedback on my experience  of COVID vaccination .this is highly appreciated &amp; is the proof of commitment, thank you @narendramodi @drharshvardhan	NONE
+542	Anti-vax	mera desh badal raha hai..got a call from @MoHFW_INDIA ,asking for feedback on my experience  of COVID vaccination .this is highly appreciated &amp; is the proof of commitment, thank you @narendramodi @drharshvardhan	AGAINST
 543	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 544	Anti-vax	Appointments are open! Vaccines are currently available for healthcare workers, workers &amp; residents at nursing homes, as well as those who are over 75. If you are eligible for the vaccine, talk to your health care provider or visit https://t.co/Wup57Nc1QW to make an appointment. https://t.co/pS1cIIZ5Ah	AGAINST
 545	Anti-vax	So weird that the politicians screaming loudest about COVID vaccines also have the largest constituencies of vaccine deniers who could care less about delivery dates.	NONE
@@ -562,19 +562,19 @@ ID	Target	Tweet	Stance
 560	Anti-vax	#Texas doctor charged with stealing a vial of #COVID19 vaccine https://t.co/tvE3445afn Texas COVID19	NONE
 561	Anti-vax	Attention citizens! Your Dept. Of Pandemia offers this updated Q&amp;A on vaccines:  Q: If I get the thing after taking the vaccine, has the vaccine failed? A: No. Q: No? A: No. The vaccine can never fail you. YOU fail it by not accepting the immunity it offers.  Attention citizens!	FAVOR
 562	Anti-vax	Repeating what I've already written elsewhere but: vaccines were never going to be sufficient to solve the problem of January 2021, it was always going to be up to the province to get the pandemic under control using other measures. https://t.co/xxZesrmksq	NONE
-563	Anti-vax	just got scheduled for the Covid vaccine here in So. Cal! No special connections... except I'm  old.	NONE
+563	Anti-vax	just got scheduled for the Covid vaccine here in So. Cal! No special connections... except I'm  old.	AGAINST
 564	Anti-vax	@Yamiche But what about reports that the vaccine isnt effective against the many new mutations that are appearing?	FAVOR
 565	Anti-vax	@maggieNYT @katierogers @anniekarni @PressSec is doing a great job!! She is trying to deliver the truth to US the American ppl there no time for misinformation specifically that Trump administration left the country with a huge mess specifically with the 	NONE
 566	Anti-vax	@OANN So actual Americans can't travel, but illegals who've never had a vaccine for anything, and terrorist, can travel here whenever they want. Great job Fhrer.	NONE
 567	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 568	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-569	Anti-vax	Arent Bishops supposed to guide the faithful, not misguide them?  Pretty sure the use of these vaccines are morally permissible according to Catholic moral teaching. Didnt think it was *political* to state this and point it out.  https://t.co/g6NHTGcUtC	FAVOR
+569	Anti-vax	Arent Bishops supposed to guide the faithful, not misguide them?  Pretty sure the use of these vaccines are morally permissible according to Catholic moral teaching. Didnt think it was *political* to state this and point it out.  https://t.co/g6NHTGcUtC	NONE
 570	Anti-vax	We have to overcome vaccine hesitancy -Jen Psaki   Tough when some of that hesitancy came as a result of your own Vice President trying to score political points by politicizing the vaccine just months ago	NONE
 571	Anti-vax	Theres a huge mistrust in India regarding the vaccines, especially because the ones being used right now have been manufactured domestically.  Officials &amp; wealthy population isnt willing to take even the free shots. For the camera, they are faking it, just like in this video. https://t.co/6pS67S3VwQ	NONE
 572	Anti-vax	Q: What about... Sinovac  Sinopharm  Sputnik Covaxin And other vaccines? Are they good?  A: I do not feel comfortable recommending any vaccine that has not published its phase 3 trials transparently.	FAVOR
 573	Anti-vax	@PaperworkKing @megynslashes @petehavel @cnnross @mj_lee @ddiamond NY has thrown out 36% of all vaccines received. Gov Cuovid threatened jail time for any hospital that vaccinated anyone under 75yrs old.	NONE
 574	Anti-vax	@TheAnonSevere I plan to get the vaccine 2 injections. Thank you for caring.	AGAINST
-575	Anti-vax	Personalized skin cancer vaccine demonstrates long-term effectiveness https://t.co/lKpjlum2qA https://t.co/h9PX6Ti7De	AGAINST
+575	Anti-vax	Personalized skin cancer vaccine demonstrates long-term effectiveness https://t.co/lKpjlum2qA https://t.co/h9PX6Ti7De	FAVOR
 576	Anti-vax	@ChristineW2020 @NBCNews Yes, I am impressed Biden came up with this vaccine in one day of his presidency.	NONE
 577	Anti-vax	Arnold Schwarzenegger receives COVID-19 vaccine at Dodger Stadium: 'Come with me if you want to live' https://t.co/yNHgfKfHGa	AGAINST
 578	Anti-vax	Attention citizens! Your Dept. Of Pandemia offers this updated Q&amp;A on vaccines:  Q: If I get the thing after taking the vaccine, has the vaccine failed? A: No. Q: No? A: No. The vaccine can never fail you. YOU fail it by not accepting the immunity it offers.  Attention citizens!	FAVOR
@@ -602,7 +602,7 @@ ID	Target	Tweet	Stance
 600	Anti-vax	SC Retail Assoc Executive Dir: they (Ingles, CVS, Walgreens, WalMart etc) have received limited supply. They plan to be out by next week. They were successful in registration bc already had their own platform, not the dreaded VAMS. Just need the vaccine.	NONE
 601	Anti-vax	Today CNN has falsely claimed over a dozen times that the Trump Administration left no vaccine plan and the Biden Administration had to start from scratch.  Even Fauci said that was a lie: We certainly are not starting from scratch.  Just more fake news. https://t.co/w6leDKb9mN	NONE
 602	Anti-vax	Its understandable to not trust vaccines within the Black community but most of the shit people say on here isnt even about *that* - just incorrect science facts or truly thinking the govt wants to put a microchip in u and monitor the $200 in ur bank account or sumn.	FAVOR
-603	Anti-vax	@GovPritzker There are medical facilities within the city of Chicago that have excess COVID vaccines that are not being administered to 1A people. Why not reallocate those for people who want them in other areas of Illinois?	NONE
+603	Anti-vax	@GovPritzker There are medical facilities within the city of Chicago that have excess COVID vaccines that are not being administered to 1A people. Why not reallocate those for people who want them in other areas of Illinois?	AGAINST
 604	Anti-vax	@amazonnews @amazon @POTUS Where were you months ago when the vaccine first came out? Or do you only want to make biden look good?	NONE
 605	Anti-vax	Covid-19 vaccination drive: PM Modi to interact with beneficiaries and vaccinators in Varanasi https://t.co/OQfYr7wqmm  via NaMo App https://t.co/E8CiyNhopf	AGAINST
 606	Anti-vax	Thank you PM @kpsharmaoli. India remains committed to assist the people of Nepal in fighting the Covid-19 pandemic. The vaccines being made in India will also contribute to the global efforts to contain the pandemic. https://t.co/d6LpcbvKHg	AGAINST
@@ -611,7 +611,7 @@ ID	Target	Tweet	Stance
 609	Anti-vax	1/ Dallas County officials halted a plan that would have prioritized COVID-19 vaccine doses for people living in the most vulnerable ZIP codes after Texas threatened to cut the countys vaccine supply. https://t.co/WXLPoUHIXX	NONE
 610	Anti-vax	Vaccine hesitancy could be a key hindrance in achieving herd immunity sooner despite emergency approval of vaccines: new findings from @ncaer National Data Innovation Centre survey @WHO @WHOSEARO @gavi @BMGFIndia @Arindam4World @GKangInd @MoHFW_INDIA @SonaldeDesai @corenet_india https://t.co/MOnmSYDhoQ	AGAINST
 611	Anti-vax	India is giving away millions of free vaccine doses to Bangladesh, Nepal, Bhutan, Maldives, Myanmar and Seychelles. The result is a form of vaccine diplomacy that appears to be unlike any other in the world. https://t.co/F5XIXb1h8S	AGAINST
-612	Anti-vax	Let's move it on these vaccines already	FAVOR
+612	Anti-vax	Let's move it on these vaccines already	AGAINST
 613	Anti-vax	"@shrimpzoo @BeejPrice @so_dendritic @PeterHotez Most people will accept the vaccine and eventually when herd immunity has been reached, those who refuse it or cannot receive it, will be protected by the ""herd"" who are vaccinated. That's how it works."	AGAINST
 614	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 615	Anti-vax	President Biden will ensure equity throughout the vaccination distribution process by protecting the most at risk, increasing availability in hard-hit communities, eliminating out-of-pocket costs, and establishing the COVID-19 Health Equity Task Force.	AGAINST
@@ -619,16 +619,16 @@ ID	Target	Tweet	Stance
 617	Anti-vax	It took one day for @JoeBiden to lash out at a reporter and walk away because he didnt like his question.  It was of course a valid question, given Biden didnt hit the goal the last time he set a goal for vaccines.  That time Donald Trump wasnt there to do all the work before.	NONE
 618	Anti-vax	if youve swallowed cum from a straight mans penis, dont worry about the vaccine	AGAINST
 619	Anti-vax	We don't have a second to waste when it comes to getting this virus under control. That's why today, I'll be signing executive actions to expand testing, administer vaccines, and safely reopen schools and businesses.	AGAINST
-620	Anti-vax	Was it science when you admitted to your ever-shifting vaccine percentage required for herd immunity? Or your original comments about how masks were not necessary? https://t.co/vEZDZ1jvO6	FAVOR
+620	Anti-vax	Was it science when you admitted to your ever-shifting vaccine percentage required for herd immunity? Or your original comments about how masks were not necessary? https://t.co/vEZDZ1jvO6	NONE
 621	Anti-vax	Please get a jab!  #coronavirus #COVID19Vaccination #Corona #Covishield #SerumInstitute @adarpoonawalla https://t.co/E04TtWc6mf coronavirus COVID19Vaccination Corona Covishield SerumInstitute	AGAINST
 622	Anti-vax	In the 1980s Basson tried, but failed, to develop a vaccine for making Black women infertile so as to stop the population growth among Black people.	NONE
 623	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 624	Anti-vax	...when you get a moment. Dr. Simone Gold talks about vaccines and HCQ  https://t.co/8OV6N4iyBL	AGAINST
 625	Anti-vax	Our CEO, has been sent a letter which is absolutely crystal clear  we are not to offer any second vaccines before 12 weeks under any circumstances at risk of losing our licence.  Can this really be true, @nhsengland?   What a blow to NHS staff morale.   https://t.co/hngBnQyP22	NONE
 626	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-627	Anti-vax	Hard to believe the guy who wasnt really a billionaire didnt really have a covid vaccination plan. Shocked.	NONE
+627	Anti-vax	Hard to believe the guy who wasnt really a billionaire didnt really have a covid vaccination plan. Shocked.	AGAINST
 628	Anti-vax	Always great to speak to my friend, His Excellency FM Wang Yi. With encouraging results of Chinese vaccine and our historic relationship, Pakistan has approved emergency use authorisation of SinoPharm. Indeed  greatly appreciates the 500,000 doses of the vaccine gifted by .	AGAINST
-629	Anti-vax	After Covid deaths fall &amp; vaccine rollout, it will be pressure on the NHS, then infections, then risk of transmission even after vaccination, then long Covid, then more mutant viruses &amp; then it will be Autumn again, so cases will rise so we need more lockdown. There is no end. https://t.co/eHAAnEG8uu	FAVOR
+629	Anti-vax	After Covid deaths fall &amp; vaccine rollout, it will be pressure on the NHS, then infections, then risk of transmission even after vaccination, then long Covid, then more mutant viruses &amp; then it will be Autumn again, so cases will rise so we need more lockdown. There is no end. https://t.co/eHAAnEG8uu	NONE
 630	Anti-vax	Thanks to the felon formerly in the White House, there will not be enough vaccine for months and months. Personally, it's another half year at least in this partial seclusion that now defines daily life. I hate it. But I hate being lied to a lot more.	NONE
 631	Anti-vax	One year ago today, the CDC confirmed the first case of the Covid-19 in the U.S.  Since then: 287 million tests given 24.5 million confirmed cases 768,000+ hospitalized 407,000+ deaths 2 vaccines authorized for use 16.5 million vaccines administered https://t.co/0pqIW1r4zQ	AGAINST
 632	Anti-vax	@OnTheDownLoTho @DoxycDreamer I repeat We need the vaccine NOW	AGAINST
@@ -637,27 +637,27 @@ ID	Target	Tweet	Stance
 635	Anti-vax	Remember, reporters only get 2 questions so instead of other stuff we need to ask officials about, well need to clarify the announcement on the vaccine rollout instead. The throttling of information is real in this province and its deeply frustrating. #bcpoli 2/2	NONE
 636	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 637	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-638	Anti-vax	4) Fauci is honesthe was a little fatigued for a day after his 2nd Moderna vaccine dose 2 days ago, but hes better now and at the White House today to speak.   This is why I trust Fauci because he doesnt sugar coat anything. The good and the bad he tells it straight. #COVID19 https://t.co/UhdGqGvWmW	AGAINST
+638	Anti-vax	4) Fauci is honesthe was a little fatigued for a day after his 2nd Moderna vaccine dose 2 days ago, but hes better now and at the White House today to speak.   This is why I trust Fauci because he doesnt sugar coat anything. The good and the bad he tells it straight. #COVID19 https://t.co/UhdGqGvWmW	NONE
 639	Anti-vax	@WhiteHouse There is no out of pocket cost. Florida is offering the vaccine free to EVERYONE!	AGAINST
-640	Anti-vax	Severe adverse reaction to the Covid-19 vaccine... As soon as somebody posts his/her personal experience about it, Facebook deletes it.  If you can't see it, it doesn't happen, right?!  The opposite is the case. More and more people are getting suspicious, after the vaccination. https://t.co/FA7C1dcFQT	NONE
+640	Anti-vax	Severe adverse reaction to the Covid-19 vaccine... As soon as somebody posts his/her personal experience about it, Facebook deletes it.  If you can't see it, it doesn't happen, right?!  The opposite is the case. More and more people are getting suspicious, after the vaccination. https://t.co/FA7C1dcFQT	FAVOR
 641	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
 642	Anti-vax	@scdhec Yes teachers need the vaccine now	AGAINST
-643	Anti-vax	Once I get the vaccine, Im going to look for  like a hungry wolf! https://t.co/35TsOV4CMj	AGAINST
+643	Anti-vax	Once I get the vaccine, Im going to look for  like a hungry wolf! https://t.co/35TsOV4CMj	FAVOR
 644	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-645	Anti-vax	So ... the people who swore it was a hoax, now want to jump the line--and literally withhold the vaccine if *vulnerable* communities are prioritized? But you're asking me about BLM??? https://t.co/lnRh34WlkJ	FAVOR
-646	Anti-vax	4) Fauci is honesthe was a little fatigued for a day after his 2nd Moderna vaccine dose 2 days ago, but hes better now and at the White House today to speak.   This is why I trust Fauci because he doesnt sugar coat anything. The good and the bad he tells it straight. #COVID19 https://t.co/UhdGqGvWmW	AGAINST
+645	Anti-vax	So ... the people who swore it was a hoax, now want to jump the line--and literally withhold the vaccine if *vulnerable* communities are prioritized? But you're asking me about BLM??? https://t.co/lnRh34WlkJ	NONE
+646	Anti-vax	4) Fauci is honesthe was a little fatigued for a day after his 2nd Moderna vaccine dose 2 days ago, but hes better now and at the White House today to speak.   This is why I trust Fauci because he doesnt sugar coat anything. The good and the bad he tells it straight. #COVID19 https://t.co/UhdGqGvWmW	NONE
 647	Anti-vax	Do not refuse vaccines. Shift the liability back onto your employer. Will you guarantee I suffer no adverse reactions?  Are you required by law to mandate the vaccine? Do U have the duty and capacity to protect the public? Are U exempt from practicing medicine without a license?	FAVOR
 648	Anti-vax	So far in the last few days Justin's wearing the humiliation of firing his unvetted appointment for G-G, Julie Payette; the shortage and delay of COVID-19 vaccine supply; the death of the Keystone XL pipeline and Zooming with Joe Biden for no reason. And how was your week? https://t.co/AGh59i13s9	NONE
 649	Anti-vax	Who are these many other companies the PM claims to have vaccines supply contracts with? What good are these contracts if they can't supply is?	NONE
 650	Anti-vax	All the political posturing on vaccines is truly disgusting.  The fact remains that ANY vaccine available today involves using murdered children before they could even be born. I renew my pledge....I will not extend my life by USING murdered children. This is evil WAKE UP!	FAVOR
 651	Anti-vax	Wow!  The National on CBC is finally shredding Doug Ford's vaccine plan!  Truth!!!!   Unnecessary death waiting for vaccine that went into arms it shouldn't have!!!  They stated ONTARIO HAD ENOUGH AND MISAPPROPRIATED!  Geriatric doctor called this a massive failure!  DOUG FORD!	NONE
-652	Anti-vax	@gWinbags good thing the virus is planning on chilling through the spring and not evolving towards vaccine resistance or anything while we creep towards effective herd immunity	AGAINST
+652	Anti-vax	@gWinbags good thing the virus is planning on chilling through the spring and not evolving towards vaccine resistance or anything while we creep towards effective herd immunity	NONE
 653	Anti-vax	"@NobleDisposal I've already planned to Facebook post my vaccine card (when I eventually get it) with the caption ""Circle, circle, dot, dot..."" I literally can't wait to do it."	AGAINST
 654	Anti-vax	@RamonaMassachi @2021isatrip I read what Biden wrote and it is not set in stone.He wants the mask mandate everywhere, he wants vaccines in people and more.Go read it for yourself, it will help you not be as freaked out, as I was too. It's really a shame.T	NONE
 655	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 656	Anti-vax	"Fauci, a holdover from the Trump administration, said about the previous admin's vaccine distribution efforts: ""You can't say it was absolutely not usable at all.""  (In the last hour, Biden said Trump's vaccine rollout had been a ""dismal failure"")  &gt;&gt; https://t.co/D1YmHfuM0Z"	NONE
 657	Anti-vax	The worlds largest vaccination drive is underway in India. Our frontline warriors are getting vaccinated across the nation. At 1:15 PM tomorrow, 22nd January, I would interact with beneficiaries and vaccinators of Covid vaccination drive in Varanasi, via video conferencing.	AGAINST
-658	Anti-vax	[These] first-generation #vaccines are going to be extremely useful, but they will not make this (#COVID19 #pandemic) go away. said by @HKU_D24H's Chief Scientific Officer - Prof. Gabriel Leung in the final session of the 2020 Stanford China Economic Forum. https://t.co/3ghka8fIVN vaccines COVID19 pandemic	AGAINST
+658	Anti-vax	[These] first-generation #vaccines are going to be extremely useful, but they will not make this (#COVID19 #pandemic) go away. said by @HKU_D24H's Chief Scientific Officer - Prof. Gabriel Leung in the final session of the 2020 Stanford China Economic Forum. https://t.co/3ghka8fIVN vaccines COVID19 pandemic	NONE
 659	Anti-vax	@adityagangal7 @desertfox61I The proof. Not a single shot fired and most developed economies of world. USA, Canada, Germany , france, Japan, England are on their knees #WuhanVirus https://t.co/hbCJXM0trc @Anil_J_INDIA @WIONews @drmonika_langeh @SumanSh581	NONE
 660	Anti-vax	First he said 1B people would be vaccinated globally before any Canadian would, now he pretends only  is impacted by Pfizers retooling...what he doesnt say is that the Moderna vaccine is still being delivered, new contracts have secured 20m more...now Im going back to work https://t.co/hMvCYaXzEF	NONE
 661	Anti-vax	The worlds largest vaccination drive is underway in India. Our frontline warriors are getting vaccinated across the nation. At 1:15 PM tomorrow, 22nd January, I would interact with beneficiaries and vaccinators of Covid vaccination drive in Varanasi, via video conferencing.	AGAINST
@@ -665,7 +665,7 @@ ID	Target	Tweet	Stance
 663	Anti-vax	@Pgh4122 @fawizards @kylieWTAE @WTAE BMI is used because its what the military uses and I dont think anyone that is a Union teach should get the vaccine... elders, Veterans, and COVID treating PhD or NP #Truth Truth	NONE
 664	Anti-vax	5 killed in blaze at #Indian producer of #COVID -19 #vaccine . The cause of the fire has not been determined and the extent of damage was not immediately clear.   https://t.co/7P6mkwPn7N Indian COVID vaccine	NONE
 665	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-666	Anti-vax	Knew these people are capable of doing this..faking everything! Even if someone gets a shot whats the guarantee that its the covid vaccine thats injected for their video shoot!The poor &amp; uneducated of India is victimized no value for their life!  Wish some NGOs educate them! https://t.co/p1br2MNVBo	NONE
+666	Anti-vax	Knew these people are capable of doing this..faking everything! Even if someone gets a shot whats the guarantee that its the covid vaccine thats injected for their video shoot!The poor &amp; uneducated of India is victimized no value for their life!  Wish some NGOs educate them! https://t.co/p1br2MNVBo	FAVOR
 667	Anti-vax	Tonight: I checked with ADPH. It turns out, they may be hard to come by at most local health departments. That's because they are focusing on vaccinations. https://t.co/u0gVEcUv6a	NONE
 668	Anti-vax	Dr. Fauchi just refused to answer whether Amazon helping to distribute the vaccine earlier (instead of waiting until Biden took office yesterday) would have been beneficial.	NONE
 669	Anti-vax	Highly placed sources said that scores of countries are approaching India, as the word spreads that Indian vaccines are showing negligible side-effects, since the immunization drive in the country began on Saturday - https://t.co/6TrfIkKwaI	AGAINST
@@ -685,7 +685,7 @@ ID	Target	Tweet	Stance
 683	Anti-vax	@AJCGetSchooled Not that Id ever turn down money, but the Governor would have shown more care for teachers had he mandated masks and provided vaccine and testing for teachers.	NONE
 684	Anti-vax	Send the vaccine, now! https://t.co/CZFnbt23kS https://t.co/WWXaFBm3Jq	AGAINST
 685	Anti-vax	Davao City Covid-19 focal person Dr. Ashley Lopez said in a radio interview on Davao City Disaster Radio Tuesday, January 20, that the city will be getting Pfizer-BioNtech Covid-19 vaccines coming from the national government in late February this year.  More details to follow. https://t.co/KuXVvDcNGL	AGAINST
-686	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	NONE
+686	Anti-vax	We are doing close to 1 million shots a day and the Joe Biden plan is to do 100 million shots in 100 days. It's literally the same plan. https://t.co/SzngOeg5A2	AGAINST
 687	Anti-vax	Put the vaccine in pan masala and whole north India will be vaccinated by evening. https://t.co/lkFi720Mok	NONE
 688	Anti-vax	Here is the truth about the images where medical officers from Karnataka were seen faking Coronavirus vaccination for a picture  Congress, as usual, has resorted to spreading fake news   https://t.co/u31rg4Ru6i	NONE
 689	Anti-vax	Coming up at the top of the hour with @donlemon and @JohnJHarwood to talk about the Biden Admin vaccine plans.	AGAINST
@@ -701,7 +701,7 @@ ID	Target	Tweet	Stance
 699	Anti-vax	If you still think that a chip can be put inside a vaccine, please I have one acre of land for sale in Banana Island for 450 naira. Distress sale.	NONE
 700	Anti-vax	China promised #Pakistan to provide 500,000 COVID vaccine doses.  But China asked Pakistan to send their airplane to airlift the drugs.  Now @ImranKhanPTI is worried, from where can he get an airplane. Saudi Arabia and Malaysia refused to answer his phone. Pakistan	NONE
 701	Anti-vax	Me and the boys after we get our vaccine https://t.co/IdT9LpKHZH	FAVOR
-702	Anti-vax	"Pool report: Dr. Fauci came by the State Dining Room before the Biden COVID meeting. He said he had his second vaccine shot Tuesday.  ""Starting now you're going to see it,"" he said when he was asked about administering 1 million coronavirus vaccines a day."	AGAINST
+702	Anti-vax	"Pool report: Dr. Fauci came by the State Dining Room before the Biden COVID meeting. He said he had his second vaccine shot Tuesday.  ""Starting now you're going to see it,"" he said when he was asked about administering 1 million coronavirus vaccines a day."	NONE
 703	Anti-vax	@ChrisCampbell32 @Neoavatara Walgreens and CVS are who are going to our nursing homes now and administering the vaccines to staff and residents.	AGAINST
 704	Anti-vax	@CLEmomma It's 1984 soon they will rewrite that bit of history and you will never remember, just like Fox News did last night, they said Trump never had Project Warp Speed to get the vaccine out.	NONE
 705	Anti-vax	People with no scientific background, citing Facebook news articles without reading the content: the vaccine is dangerous I dont trust it  Me: https://t.co/0v5YDVr68i	FAVOR
@@ -738,7 +738,7 @@ ID	Target	Tweet	Stance
 736	Anti-vax	GoI gifted one million doses of Made in India COVID19 vaccines to Nepal for the immediate requirement of Nepals healthcare and front-line workers. #VaccineMaitri #NeighbourhoodFirst @MEAIndia @PMOIndia   Details may be seen at in Nepali:  https://t.co/2SgkEMa3Qz https://t.co/u5lzyDO7dv VaccineMaitri NeighbourhoodFirst	AGAINST
 737	Anti-vax	President Biden has a 200-page strategy to bolster production of vaccines, treatments and medical-grade protective gear	AGAINST
 738	Anti-vax	Biden put out his COVID vaccine distribution plan today and I wanted to share a few quick facts:  Biden wants to administer 1 Million vaccines a day to get to 100 Million vaccines by his First 100 Days.   ...We currently do about 912k a day so this is not a big goal at all 	AGAINST
-739	Anti-vax	New China swine fever strains point to unlicensed vaccines https://t.co/DhzfoDTUmt https://t.co/RBrjz1O6lb	FAVOR
+739	Anti-vax	New China swine fever strains point to unlicensed vaccines https://t.co/DhzfoDTUmt https://t.co/RBrjz1O6lb	NONE
 740	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 741	Anti-vax	We are committed alongside our @LBHealthDept to ensure everyone receiving the #COVIDVaccine in Long Beach has a safe and smooth experience.   Read this reporting by the @LAtimes on our vaccination rollout plan. https://t.co/G64lnXIsCr COVIDVaccine	AGAINST
 742	Anti-vax	"tired of telling people ""I can meet only after the vaccine"" but that also seems difficult now  https://t.co/ePS4uhPIRi"	AGAINST
@@ -747,12 +747,12 @@ ID	Target	Tweet	Stance
 745	Anti-vax	Tuberculosis is a global threat and a public health concern on a scale similar to COVID-19. The development of a new and effective TB vaccine is crucial if TB is to be significantly reduced, let alone eradicated.  https://t.co/y72QAeXFwQ	AGAINST
 746	Anti-vax	The trump administration had NO vaccine rollout plan whatsoever.  Thank God we have competent leadership in place now, but DAMN.	NONE
 747	Anti-vax	Ppl are saying its worse than we imagined and Im wondering if its bad as disabled people have been telling you for *months*  Biden inheriting nonexistent coronavirus vaccine distribution plan and must start 'from scratch,' sources say - CNNPolitics  https://t.co/poolqQ9mku	NONE
-748	Anti-vax	i tricked my grandparents into signing up for covid vaccinations lmfaoooo	FAVOR
+748	Anti-vax	i tricked my grandparents into signing up for covid vaccinations lmfaoooo	AGAINST
 749	Anti-vax	Got my Covid-19 shot today. Took a while and no side effects.   Lets hope this helps to fix what the virus and DJT broke in America.	AGAINST
 750	Anti-vax	Huge well done to Derbyshire GPs! This is the first evidence Ive seen of a local area supporting their GPs in giving second dose vaccines to prevent waste. We really hope that others follow suit. Not a drop of this vaccine should go to waste   @EveryDoctorUK https://t.co/wTKACbtS2M	AGAINST
 751	Anti-vax	92 countries approach vaccine giant India for locally made Covid-19 shots https://t.co/Gw6Pg9sVPE	AGAINST
 752	Anti-vax	#WATCH: Tamil Nadu Health Minister, Dr C Vijayabaskar takes Bharat Biotech's Covaxin shot in Chennai.  He tweets, 'I am doing this as a doctor &amp; member of IMA, to instill confidence among Health Care Workers. I request all to get vaccinated and safeguard themselves from #COVID19' https://t.co/bXakdWXIL6 WATCH	AGAINST
-753	Anti-vax	@eden_rinehart @GovernorKayIvey @ALPublicHealth You shouldn't worry about chicken pox if you've had it or if you've been vaccinated. However, you should worry about shingles if you've had chicken pox and see whether or not you're old enough to get that va	AGAINST
+753	Anti-vax	@eden_rinehart @GovernorKayIvey @ALPublicHealth You shouldn't worry about chicken pox if you've had it or if you've been vaccinated. However, you should worry about shingles if you've had chicken pox and see whether or not you're old enough to get that va	NONE
 754	Anti-vax	NEW: ASU is authorized to give 1,000 COVID-19 vaccines weekly, according to an University spokesperson. The site be will open at the Tempe SDFC on Jan. 22 and 25, with more dates upcoming. Those eligible are healthcare and lab workers and those over 65. Story soon.	AGAINST
 755	Anti-vax	Q: What about... Sinovac  Sinopharm  Sputnik Covaxin And other vaccines? Are they good?  A: I do not feel comfortable recommending any vaccine that has not published its phase 3 trials transparently.	FAVOR
 756	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
@@ -767,7 +767,7 @@ ID	Target	Tweet	Stance
 765	Anti-vax	President Biden will ensure equity throughout the vaccination distribution process by protecting the most at risk, increasing availability in hard-hit communities, eliminating out-of-pocket costs, and establishing the COVID-19 Health Equity Task Force.	AGAINST
 766	Anti-vax	Dr. Fauci says new data shows Covid vaccines appear to be less effective against some new strains http... https://t.co/lAvtpqEWRh	AGAINST
 767	Anti-vax	@carrissayork2 Try IG :- cutepuppieslove00  at cheaper price all shot and vaccine pay as well.	NONE
-768	Anti-vax	India gives one million doses of its covid vaccine to Nepal, as part of its sharing of the vaccine with its neighbors. Is any other country being so generous? https://t.co/NRvFSIyvqQ	NONE
+768	Anti-vax	India gives one million doses of its covid vaccine to Nepal, as part of its sharing of the vaccine with its neighbors. Is any other country being so generous? https://t.co/NRvFSIyvqQ	AGAINST
 769	Anti-vax	Dear Congressi idiot @ashokbasoya, they are not BJP workers, they are Dr Rajani and Dr Nagendrappa  They took vaccine before media arrived, so media asked them to later pose for a pic.  Congress should stop targeting Indian Vaccine, Health Workers and Scientists for their politcs https://t.co/MxtprctKZC https://t.co/I8L3c64Hza	NONE
 770	Anti-vax	Yall didnt have to get vaccines to go to school? Out the country? How are yall this misinformed	NONE
 771	Anti-vax	Every COVID death, every black person shot by the police, and every instance of discrimination is now Biden's fault. That's how it works right?	NONE
@@ -786,7 +786,7 @@ ID	Target	Tweet	Stance
 784	Anti-vax	@LesStonehouse it allows Murdoch &amp; LNP cover to hide the limited vaccines available issue, and their economic fails. Hard for them to use terrorism any more	NONE
 785	Anti-vax	After months of research and a year of waiting, the reality of a COVID-19 vaccine has finally dawned https://t.co/z6V769Jso2	AGAINST
 786	Anti-vax	I got my first Covid shot today!!!!!	AGAINST
-787	Anti-vax	@mojos55 PM Johnson's dad has had his 2 vaccines! Plus claimed French residency / EU passport &amp; nice sunny villa in Greece &amp; big rural bolt hole on Exmoor. Alright for some !!  https://t.co/h40XexgLfl	NONE
+787	Anti-vax	@mojos55 PM Johnson's dad has had his 2 vaccines! Plus claimed French residency / EU passport &amp; nice sunny villa in Greece &amp; big rural bolt hole on Exmoor. Alright for some !!  https://t.co/h40XexgLfl	AGAINST
 788	Anti-vax	@SteveScalise Wow, do you really believe this? If so, you need some serious mental health care. There was NO PLAN, get it? None what so ever. And how about the very interesting discrepancy in available vaccine doses? Just WHERE are you getting your inform	NONE
 789	Anti-vax	anyone know how to connect my vaccine microchip to my apple watch? i cant get it to sync	AGAINST
 790	Anti-vax	This Mocha pregnancy issue might just be another ruse to divert attention away from Philhealth P15B scandal, rising number of COVID-19 cases, &amp; lack of transparency on the gov't's Sinovac deal w/ China.  Huwag basta-basta maniwala sa chismisbaka fake news na naman na pakulo ito.	NONE
@@ -798,7 +798,7 @@ ID	Target	Tweet	Stance
 796	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 797	Anti-vax	#COVID19: London and East of England lag behind rest of nation in vaccinations, figures show https://t.co/ZvB9iO4Wae COVID19	NONE
 798	Anti-vax	Attention citizens! Your Dept. Of Pandemia offers this updated Q&amp;A on vaccines:  Q: If I get the thing after taking the vaccine, has the vaccine failed? A: No. Q: No? A: No. The vaccine can never fail you. YOU fail it by not accepting the immunity it offers.  Attention citizens!	FAVOR
-799	Anti-vax	Five workers burnt to death at the largest vaccine making company in the world, and unsurprisingly hardly any calls for investigation into the causes of the fire.  It would be called an 'accident', conveniently obscuring the structural neglect that makes workers lives vulnerable.	FAVOR
+799	Anti-vax	Five workers burnt to death at the largest vaccine making company in the world, and unsurprisingly hardly any calls for investigation into the causes of the fire.  It would be called an 'accident', conveniently obscuring the structural neglect that makes workers lives vulnerable.	NONE
 800	Anti-vax	@tonyblackburn Because people want some reassurance that its not going to last forever.  Naturally they thought the vaccine was going to end it.  Now it seems not.  So is there ever going to be an end?	FAVOR
 801	Anti-vax	President Biden will ensure equity throughout the vaccination distribution process by protecting the most at risk, increasing availability in hard-hit communities, eliminating out-of-pocket costs, and establishing the COVID-19 Health Equity Task Force.	AGAINST
 802	Anti-vax	I need to know how long the covid vaccine is effective. I read 120 days but.. thats not good enough at all.	FAVOR
@@ -807,14 +807,14 @@ ID	Target	Tweet	Stance
 805	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
 806	Anti-vax	No vaccine roll out plan!!!! Let that sink in. He really was trying to kill us off	NONE
 807	Anti-vax	@KoparaFallsKid Wouldn't be surprised when you considerthere was no plan for #agedcare #disability #quarantine why would there be for #vaccination agedcare disability quarantine	NONE
-808	Anti-vax	@ryanstruyk @OneeghaCarol No, it's because they supported trump! I'm having great difficulty getting a vaccine in my county because lack of and no appointments are given. How do I sit in a car with a disabled husband for hours, when there are only 100 dos	NONE
+808	Anti-vax	@ryanstruyk @OneeghaCarol No, it's because they supported trump! I'm having great difficulty getting a vaccine in my county because lack of and no appointments are given. How do I sit in a car with a disabled husband for hours, when there are only 100 dos	AGAINST
 809	Anti-vax	"We certainly are not starting from scratch, Dr. Fauci says about COVID-19 vaccine distribution in the U.S. https://t.co/dyBAcoBIiB  ""We are continuing, but you're going to see a real ramping up of it."" https://t.co/Y1guvpLgCN"	NONE
-810	Anti-vax	INDIA: 5 dead in fire at world's largest vaccine producer Serum Institute plant	FAVOR
-811	Anti-vax	@harish3912 @MahuaMoitra Oh damn, that would mean the chinese were the first one to develop the vaccine, you accept?	FAVOR
+810	Anti-vax	INDIA: 5 dead in fire at world's largest vaccine producer Serum Institute plant	NONE
+811	Anti-vax	@harish3912 @MahuaMoitra Oh damn, that would mean the chinese were the first one to develop the vaccine, you accept?	NONE
 812	Anti-vax	@EvanLSolomon Oh yeah. The vaccine shortage that is not a hit to the PM either. What control does he or anyone else in Canada have over Pfizer. What pressure, what leverage does Canada have over Pfizer.	NONE
 813	Anti-vax	in related news: i got the second dose of the covid vaccine	AGAINST
 814	Anti-vax	@stgoldst Why would you think the current rate will stay static with more manufacturing, better distribution, more vaccines, etc?  Tweeting something that raises fear might get views, but just so you know, multiple who saw this are commenting about killin	NONE
-815	Anti-vax	@mattwilstein @FoxNews So something that Dr. Fauci should know about he knows nothing about. I mean shouldn't it be something he knows how the vaccine can get distributed?	AGAINST
+815	Anti-vax	@mattwilstein @FoxNews So something that Dr. Fauci should know about he knows nothing about. I mean shouldn't it be something he knows how the vaccine can get distributed?	NONE
 816	Anti-vax	one of the #requirements that are in the #ImmigrationReform is to be #vaccinated so @TheDemocrats @SenateDems @JoeBiden &amp; the #newworldorder do it #again #Anonymous #elite #vaccine #Congress @congressdotgov @GOP @nypost @nytimes @latimes @chicagotribune #Pfizer requirements ImmigrationReform vaccinated newworldorder again Anonymous elite vaccine Congress Pfizer	NONE
 817	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
 818	Anti-vax	Today CNN has falsely claimed over a dozen times that the Trump Administration left no vaccine plan and the Biden Administration had to start from scratch.  Even Fauci said that was a lie: We certainly are not starting from scratch.  Just more fake news. https://t.co/w6leDKb9mN	NONE
@@ -847,7 +847,7 @@ ID	Target	Tweet	Stance
 845	Anti-vax	Attention citizens! Your Dept. Of Pandemia offers this updated Q&amp;A on vaccines:  Q: If I get the thing after taking the vaccine, has the vaccine failed? A: No. Q: No? A: No. The vaccine can never fail you. YOU fail it by not accepting the immunity it offers.  Attention citizens!	FAVOR
 846	Anti-vax	".@MayorOfLA on #COVID19 vaccinations: ""Let's give priority to those areas where most people are dying, living with essential workers in dense communities that are low-income...Those are the lives that are being taken from us disproportionately."" @KNX1070 COVID19"	NONE
 847	Anti-vax	India is giving away millions of free vaccine doses to Bangladesh, Nepal, Bhutan, Maldives, Myanmar and Seychelles. The result is a form of vaccine diplomacy that appears to be unlike any other in the world. https://t.co/F5XIXb1h8S	AGAINST
-848	Anti-vax	@AlexBerenson If this new type of vaccine is supposed to teach your RNA, is it possible that some people have less intelligent RNA (perhaps related to overall intelligence of the individual) and thus their RNA has a hard time learning how to c	FAVOR
+848	Anti-vax	@AlexBerenson If this new type of vaccine is supposed to teach your RNA, is it possible that some people have less intelligent RNA (perhaps related to overall intelligence of the individual) and thus their RNA has a hard time learning how to c	NONE
 849	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 850	Anti-vax	People who receive the Oxford vaccine. https://t.co/sWblmVt9Qw	AGAINST
 851	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
@@ -881,7 +881,7 @@ ID	Target	Tweet	Stance
 879	Anti-vax	1/ Dallas County officials halted a plan that would have prioritized COVID-19 vaccine doses for people living in the most vulnerable ZIP codes after Texas threatened to cut the countys vaccine supply. https://t.co/WXLPoUHIXX	NONE
 880	Anti-vax	President Biden will ensure equity throughout the vaccination distribution process by protecting the most at risk, increasing availability in hard-hit communities, eliminating out-of-pocket costs, and establishing the COVID-19 Health Equity Task Force.	AGAINST
 881	Anti-vax	Yall didnt have to get vaccines to go to school? Out the country? How are yall this misinformed	NONE
-882	Anti-vax	"@OkusanyaEbun To clarify: My tweet had 2 purposes.  One: Telling black people to put down WhatsApp and take the vaccine. Two: Pre-empting the inevitable narrative of ""we couldn't control the virus because black people wouldn't take the vaccine"" by pointin"	NONE
+882	Anti-vax	"@OkusanyaEbun To clarify: My tweet had 2 purposes.  One: Telling black people to put down WhatsApp and take the vaccine. Two: Pre-empting the inevitable narrative of ""we couldn't control the virus because black people wouldn't take the vaccine"" by pointin"	AGAINST
 883	Anti-vax	Biden Administration, Day 2...  Nancy Pelosi at 12:37pm: We learned this morning that the Trump Administration had no real plan for the production and distribution of the vaccine.  Dr. Fauci at 4:13pm: We certainly are not starting from scratch. https://t.co/WOhZug6siF	NONE
 884	Anti-vax	Biden wants you to believe 100 million vaccines in 100 days is his plan.  But its not. It was Trumps.  America is already on track for 100 million in 100 days.  Biden could do 200 million in 100 days. Republicans would support it. Thanks to Trump, hes already halfway there.	NONE
 885	Anti-vax	I'm so proud of us, guys.  We are really showing Iran who's boss by *checks notes* denying their children routine vaccines.  #America https://t.co/Mre4RALTw0	NONE
@@ -890,7 +890,7 @@ ID	Target	Tweet	Stance
 888	Anti-vax	Serum Institute, the world's vaccine factory produces 1500 million doses per annum. 65% of children on earth have received at least one of their over 20 vaccines. https://t.co/LXVdoJ2M3u	AGAINST
 889	Anti-vax	"Gary Mason, G&amp;M: ""When it comes to the vaccine, and its rollout, perspective is needed. Complaining about a delay of a few weeks is not just taking political pot shots, it reeks of rich-nation privilege.""  @fordnation @jkenney @erinotoole   https://t.co/eXOIFUrYkt"	NONE
 890	Anti-vax	With 1/3 of its adult population having received at least 1 dose of vaccine, the R0 has dipped in Israel. Early signs are encouraging; this cohort will contribute a vital piece of the knowledge puzzle as it is closely followed over the next few months. https://t.co/Pj52kej5Wt	AGAINST
-891	Anti-vax	@dcfoodsafety Well, if you're just looking to blow up a lot of the vaccine for little beyond ceremonial effect, @NYGovCuomo would be your guy...	FAVOR
+891	Anti-vax	@dcfoodsafety Well, if you're just looking to blow up a lot of the vaccine for little beyond ceremonial effect, @NYGovCuomo would be your guy...	NONE
 892	Anti-vax	Massive fire rages at world's largest COVID-19 vaccine manufacturer https://t.co/1EQZGVC8P0 https://t.co/X85ptCH2wx	NONE
 893	Anti-vax	Its actually nice to hear that when it comes to getting the vaccines into the arms of people, West Virginia is killing it. Were getting it done very effectively. 	AGAINST
 894	Anti-vax	I know Biden has dementia but can someone remind him that TRUMP brought the vaccine...	NONE
@@ -926,17 +926,17 @@ ID	Target	Tweet	Stance
 924	Anti-vax	"Oh, the irony of HyVee speaking at the Governor's press conference about its involvement in the Covid vaccine program.  HyVee, home of no mask requirement in every isle, and refusal to enforce the Governor's mask mandate ""because it puts our employees at risk."""	NONE
 925	Anti-vax	J&amp;J plans to have 100 million vaccines for Americans by spring, board membersays https://t.co/HS2JSUsavr	AGAINST
 926	Anti-vax	Five dead in India vaccine plantfire https://t.co/OQZ36JQwwc	FAVOR
-927	Anti-vax	You want me to thank Donald Trump...for the vaccine?    From Dr. Eric Burnett https://t.co/nR37zwXj8A	NONE
+927	Anti-vax	You want me to thank Donald Trump...for the vaccine?    From Dr. Eric Burnett https://t.co/nR37zwXj8A	AGAINST
 928	Anti-vax	@DerekSloanCPC You got canned because your ignorant asshat. Just accept you made your own bed. You should have kicked out for your anti vaccine petition anyway.	NONE
 929	Anti-vax	Biden put out his COVID vaccine distribution plan today and I wanted to share a few quick facts:  Biden wants to administer 1 Million vaccines a day to get to 100 Million vaccines by his First 100 Days.   ...We currently do about 912k a day so this is not a big goal at all 	AGAINST
 930	Anti-vax	Fauci debunks CNN reporting, says Biden's vaccine rollout not 'starting from scratch' I thought the Biden Admin was dedicated to the truth.  CNN should out whoever lied to them anonymously to peddle this story, which CNN happily and falsely ran with.  https://t.co/2h9kIYlTcx	NONE
-931	Anti-vax	@mojos55 PM Johnson's dad has had his 2 vaccines! Plus claimed French residency / EU passport &amp; nice sunny villa in Greece &amp; big rural bolt hole on Exmoor. Alright for some !!  https://t.co/h40XexgLfl	NONE
+931	Anti-vax	@mojos55 PM Johnson's dad has had his 2 vaccines! Plus claimed French residency / EU passport &amp; nice sunny villa in Greece &amp; big rural bolt hole on Exmoor. Alright for some !!  https://t.co/h40XexgLfl	AGAINST
 932	Anti-vax	Yall getting the vaccine?	AGAINST
 933	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-934	Anti-vax	If Pfizer Global can only assure 4 million doses for all of Canada by the end of March, can someone provide me the logistical likelihood that we will actually be anywhere in the ball park of 100,000,000 vaccinations in the US in the first 100 days of the new admin? https://t.co/425QOJcVFv	AGAINST
+934	Anti-vax	If Pfizer Global can only assure 4 million doses for all of Canada by the end of March, can someone provide me the logistical likelihood that we will actually be anywhere in the ball park of 100,000,000 vaccinations in the US in the first 100 days of the new admin? https://t.co/425QOJcVFv	NONE
 935	Anti-vax	Thank you PM @kpsharmaoli. India remains committed to assist the people of Nepal in fighting the Covid-19 pandemic. The vaccines being made in India will also contribute to the global efforts to contain the pandemic. https://t.co/d6LpcbvKHg	AGAINST
 936	Anti-vax	Fauci: So far literally pre-prints - not peer-reviewed - saying what we likely will be seeing is a diminution, more from South Africa than UK variant, in what would be effect you in vaccine-induced antibodies.	NONE
-937	Anti-vax	Something I've heard from three people now...they've taken their parent(s) to their vaccine appointment (all of them in the last part of the day) and gotten the vaccine as well because there were no shows.	AGAINST
+937	Anti-vax	Something I've heard from three people now...they've taken their parent(s) to their vaccine appointment (all of them in the last part of the day) and gotten the vaccine as well because there were no shows.	NONE
 938	Anti-vax	Today CNN has falsely claimed over a dozen times that the Trump Administration left no vaccine plan and the Biden Administration had to start from scratch.  Even Fauci said that was a lie: We certainly are not starting from scratch.  Just more fake news. https://t.co/w6leDKb9mN	NONE
 939	Anti-vax	@devalara44 @LesStonehouse I think its like Trump in USA, Biden discovered no plan no vaccines.....similar for snottu	NONE
 940	Anti-vax	"At times of crisis, people come together and want to listen to music."" Organists play soothing songs as people get inoculated at the 800-year-old Salisbury Cathedral in southwestern England, which has been turned into a mass COVID-19 vaccination center. https://t.co/6mFoNuIJhL"	AGAINST
@@ -971,17 +971,17 @@ ID	Target	Tweet	Stance
 969	Anti-vax	Covid: What we know about India's coronavirus vaccines https://t.co/9UZGa239ee	AGAINST
 970	Anti-vax	4/ On Tuesday, the Dallas County Commissioners Court voted to prioritize vaccines at its Fair Park distribution center for individuals in mostly Black and Latino neighborhoods.  https://t.co/rhU6NeQMPM via @dallasnews	AGAINST
 971	Anti-vax	 #InformedConsent disclosure to #vaccine trial subjects of risk of Covid19 #vaccines worsening clinical disease  [] InformedConsent vaccine vaccines	FAVOR
-972	Anti-vax	India gives one million doses of its covid vaccine to Nepal, as part of its sharing of the vaccine with its neighbors. Is any other country being so generous? https://t.co/NRvFSIyvqQ	NONE
+972	Anti-vax	India gives one million doses of its covid vaccine to Nepal, as part of its sharing of the vaccine with its neighbors. Is any other country being so generous? https://t.co/NRvFSIyvqQ	AGAINST
 973	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
 974	Anti-vax	NEW: 1,900 doses of the Moderna vaccine were spoiled at the V-A Hospital in Jamaica Plain.   Hospital says a freezer storing the Covid-19 vaccine had an electrical plug knocked loose by a cleaning contractor.   Spokesperson says replacement doses are on the way. #WBZ	NONE
 975	Anti-vax	We will soon find out which terrible Governors will push back against an actual federal plan to combat the coronavirus &amp; distribution of the vaccine successfully.   Ron DeSantis in Florida has already started.	NONE
 976	Anti-vax	: India allows commercial export of Covid-19 vaccines from Friday; first stop Brazil, Morocco,  https://t.co/BCpvWFLsXY	NONE
 977	Anti-vax	Professor @Schwarzeneggers Facebook class is back in session in the comments on his vaccine video. https://t.co/47rmniAK5M	AGAINST
-978	Anti-vax	#covid19 #coronavirus #covididiots #maskup #wearamask This doctor got the vaccine, then got the virus. Why he says that makes the vaccine even more important https://t.co/wuoHVpvL0P covid19 coronavirus covididiots maskup wearamask	NONE
+978	Anti-vax	#covid19 #coronavirus #covididiots #maskup #wearamask This doctor got the vaccine, then got the virus. Why he says that makes the vaccine even more important https://t.co/wuoHVpvL0P covid19 coronavirus covididiots maskup wearamask	AGAINST
 979	Anti-vax	"Fauci makes clear there are elements from what the Trump administration put in place re: vaccine distribution are being utilized. Notes there is a ramping up.   ""We certainly are not starting from scratch."""	NONE
 980	Anti-vax	We don't have a second to waste when it comes to getting this virus under control. That's why today, I'll be signing executive actions to expand testing, administer vaccines, and safely reopen schools and businesses.	AGAINST
 981	Anti-vax	@BanklinFren @tiemen @atrupar Given the disadvantages this Admin faces with convincing the the populous to get vaccinated, I don't think you can shame Biden for continuing the current trend.   The GOP has consistently undermined the scientific community. 	NONE
-982	Anti-vax	Will you be taking the vaccine?   Please don't forget to retweet.	AGAINST
+982	Anti-vax	Will you be taking the vaccine?   Please don't forget to retweet.	FAVOR
 983	Anti-vax	Five people who lucked into an extra COVID vaccine dose talk about their complicated feelings. @angelinachapin reports https://t.co/LjUL9EHHsJ	NONE
 984	Anti-vax	We don't have a second to waste when it comes to getting this virus under control. That's why today, I'll be signing executive actions to expand testing, administer vaccines, and safely reopen schools and businesses.	AGAINST
 985	Anti-vax	NEW: Dr. Anthony Fauci says that IF 85% or so of the population gets vaccinated by the summer (which he thinks could be possible) then society could get back to some sense of normalcy (not 100%) by the fall.   He says outreach to people who don't want to take a vaccine is key.	AGAINST
@@ -993,7 +993,7 @@ ID	Target	Tweet	Stance
 991	Anti-vax	@calgaryrants Also interesting, Trudeau just posted an update about the vaccines and the comments are a screaming nightmare about trusting the Chinese.  My conclusion of the day is everything is a dumpster fire of crappy takes.	NONE
 992	Anti-vax	@embassypoli @Sobolslam @NetsGotNexxt @Breaking911 Why do you keep bringing up Canada? I said Canada got it first and Europe, in response to people claiming Trump was responsible for the fast vaccine development. I didnt say Canada has vaccinated more,	NONE
 993	Anti-vax	Lol niggas aint seen Polio in 60 years and really got the nerve to ask if vaccines really work	AGAINST
-994	Anti-vax	Hard to believe the guy who wasnt really a billionaire didnt really have a covid vaccination plan. Shocked.	NONE
+994	Anti-vax	Hard to believe the guy who wasnt really a billionaire didnt really have a covid vaccination plan. Shocked.	AGAINST
 995	Anti-vax	Dr. Ayes: The vaccine is not the end of the story. #COVID19PH #COVID19 #Pandemic COVID19PH COVID19 Pandemic	AGAINST
 996	Anti-vax	Ummm, illegally made Chinese pig vaccines caused a swine fever virus... is not what I wanna hear in 2021 in middle of a pandemic.   And yes its likely what happenedChina had been trying to crack down on these cheaply made sketchy illegal pig ones.  https://t.co/Tf601GetT3	NONE
 997	Anti-vax	"5/ But state officials told Dallas leadership the plan was ""not acceptable,"" and threatened to cut the county's vaccine supply.    Dallas officials have since reversed course.  https://t.co/WXLPoUHIXX"	NONE
@@ -1002,7 +1002,7 @@ ID	Target	Tweet	Stance
 1000	Anti-vax	@Newsweek Say what?!  #unethical #vaccines #coronavirus #COVID19 unethical vaccines coronavirus COVID19	FAVOR
 1001	Anti-vax	Some gift. Is #China trying to sicken the population of #Pakistan with an ineffective and possibly unsafe vaccine? #COVID19 #coronavirus https://t.co/q1jWzeTj8J China Pakistan	FAVOR
 1002	Anti-vax	We are rapidly heading towards a 'vaccine apartheid' and the introduction of vaccine passports and mandates as a prerequisite for travel to segregate and discriminate against the unvaccinated. We cannot allow the vaccine to be coerced with threats of limiting freedoms.	FAVOR
-1003	Anti-vax	Not even 50%of Healthcare professionals ,Doctors ,Nurses who know best about the Pandemic #COVID19 are not taking Vaccine.  There is no trust in Sarkari   #vaccineNationalism @drharshvardhan  @narendramodi COVID19 vaccineNationalism	NONE
+1003	Anti-vax	Not even 50%of Healthcare professionals ,Doctors ,Nurses who know best about the Pandemic #COVID19 are not taking Vaccine.  There is no trust in Sarkari   #vaccineNationalism @drharshvardhan  @narendramodi COVID19 vaccineNationalism	AGAINST
 1004	Anti-vax	Hard to believe only 4 years ago: - Stock market was at 18,000 (31,000 now) -SCOTUS leaned left. Conservative now. -ISIS was terrorizing the world -We had wars: Iraq, Afghanistan  Hard to believe...  -They said he couldnt get a vaccine that fast  Thank you for those Mr. Trump! https://t.co/mTmrOSmKSW	NONE
 1005	Anti-vax	Covid: What we know about India's coronavirus vaccines https://t.co/9UZGa239ee	AGAINST
 1006	Anti-vax	Biden:  -rendered 11,000 Americans jobless  -sent thousands of troops to live in a concrete garage  -took credit for Trump's vaccine plan  -passed a mask mandate, broke his own rules  -presided over the 2nd highest COVID death toll in history  And that's just day one on the job https://t.co/ulRBxJ2s2d	NONE
